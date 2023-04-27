@@ -1,0 +1,13 @@
+name = "ISM Modpack"
+author = "Seintive"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f7c0355d68f7a4c86592335685e055f2929ec570f2a869c1bf56c50c92c90c4"
+
+[versions]
+forge = "43.2.8"
+minecraft = "1.19.2"
