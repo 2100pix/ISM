@@ -29,7 +29,3 @@ metafile = true
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
 metafile = true
-
-[[files]]
-file = "textfile.txt"
-hash = "d4ff99baa142a86549e8c7ae8dfd0dcb5e5b7aae1d38392145b766f784f295b0"
