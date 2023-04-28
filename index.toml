@@ -26,6 +26,11 @@ hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "14c6353afbd92646a2d940bd7363b4de13c22def8d23cf20f54ccb25ec641e94"
 metafile = true
