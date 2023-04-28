@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "cb38bfb6f6c6d6cf6847d635dc34b7b1aab74d091e9ae7e696e16bfe8c317270"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "038ffae31fac0823dfcddb4e93653657000c55bcd32f1d41862a45124b5e7ca8"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
 metafile = true
 
 [[files]]
@@ -24,3 +29,7 @@ metafile = true
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
 metafile = true
+
+[[files]]
+file = "textfile.txt"
+hash = "d4ff99baa142a86549e8c7ae8dfd0dcb5e5b7aae1d38392145b766f784f295b0"
