@@ -26,6 +26,11 @@ hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "14c6353afbd92646a2d940bd7363b4de13c22def8d23cf20f54ccb25ec641e94"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
 metafile = true
