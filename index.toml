@@ -34,11 +34,3 @@ metafile = true
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
 metafile = true
-
-[[files]]
-file = "news/news_content.txt"
-hash = "a86a3ddfe7e7b9a244265ffb1f59e850d56ba972fe2bb981a28db43682319a66"
-
-[[files]]
-file = "news/news_image.png"
-hash = "6f125348634793be36a72555620d590bad85d41920dbc3c136e5a077e66a79f7"
