@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
-hash = "964b25f2399fc4c4ed62a1a1f5ad9d6efa84e5ff1c01243c42b66cfbb74c2127"
+hash = "25ec01ca8aff28824232017bce23a6fe100d89a40a19581ac4820329a4e6835d"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "2c15dd144b734cc912adac29e62035b25b0063486b96102628a422bfeed0a249"
+hash = "950d11bc633e05198af4da50a5281f41fda511910f168c72a3f41dbb0768a804"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
-hash = "f56a5e7f29b94a6cbd5c0921e8f997e4f0c0b9b70bc79848558951dc20c94a2a"
+hash = "4abbda8c4e361aad17c123b1b0a087f65259e3e2d054d4b4a449b75205ff6b25"
 metafile = true
 
 [[files]]

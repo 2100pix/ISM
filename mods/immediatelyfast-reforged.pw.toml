@@ -3,11 +3,9 @@ filename = "ImmediatelyFastReforged-1.19.2-1.1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "774cc61168977910c7275285a024e5876e5b4c1d"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/qii8lu792f04cyc/ImmediatelyFastReforged-1.19.2-1.1.12.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4486026
-project-id = 839581
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6af3b2e23c9200b0d4423c0ccf6777b2badd21d7ae9bef962765e13089dcc39f"
