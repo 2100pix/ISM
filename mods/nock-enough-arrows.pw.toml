@@ -3,11 +3,9 @@ filename = "nock_enough_arrows-1.19.2-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e265f588c77c647ba9ff29e121cee727a02df468"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/5ozzv71jjg3qesc/nock_enough_arrows-1.19.2-1.2.0.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4160474
-project-id = 643207
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "eaa80aff1bf07333c169aed787961204fb1fe72fcdc6115b61edb69be65ed962"

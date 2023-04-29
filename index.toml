@@ -799,12 +799,12 @@ metafile = true
 
 [[files]]
 file = "mods/nock-enough-arrows.pw.toml"
-hash = "d1687d9808d262651e9fc1ef1ccc3da2f2ff4bc16d2ab2a9a0806a3b057d357b"
+hash = "41a286c3a7b15241924c18dcab21c41afe2275035ac67f34c7f3a9a3b1490995"
 metafile = true
 
 [[files]]
 file = "mods/nocubes-zombie-mobs.pw.toml"
-hash = "bc0a9e0e36b6d46f08b3deeb9913057b69df0cb99e3a2b99ee83c7b0669a1483"
+hash = "9701ecb954a11efc07e9558ec2a9ecc800adaf54e2ace3765f8871ada8f01b6e"
 metafile = true
 
 [[files]]

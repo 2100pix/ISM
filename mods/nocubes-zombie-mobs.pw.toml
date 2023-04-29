@@ -3,11 +3,9 @@ filename = "nocube's_zombie_mobs_1.4.0_forge_1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2148982d9d6639e634da6b60886532e40ede036a"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/b1ssrxi4b5gg2l1/nocube%27s_zombie_mobs_1.4.0_forge_1.19.2.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4219612
-project-id = 645456
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6e90d0a1844bdd558ddff373d805503959de85c0675100ca6f947309e2f850ab"
