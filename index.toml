@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "cb38bfb6f6c6d6cf6847d635dc34b7b1aab74d091e9ae7e696e16bfe8c317270"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
 
 [[files]]
