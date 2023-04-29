@@ -31,6 +31,11 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "df85d08e49fbf3cc7d70e60be05183fbcdd706157557e2708184377aff276d10"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d6e632815eec579cf9763057f706a5a4eae2dd9237601e63b4c32bc57ac90338"
 metafile = true
@@ -46,6 +51,11 @@ hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
 metafile = true
 
 [[files]]
+file = "mods/boat-break-fix.pw.toml"
+hash = "1b495e9463fd78c77f525ba8a062a86c21b6ec13c8919b4e2f475e4bf2a3464c"
+metafile = true
+
+[[files]]
 file = "mods/camera-overhaul-forge.pw.toml"
 hash = "9676251204d3fa9ca384e70a477f01ce4a38a4fd95f1ec488f662298bf265909"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
 
 [[files]]
@@ -91,6 +106,11 @@ hash = "038ffae31fac0823dfcddb4e93653657000c55bcd32f1d41862a45124b5e7ca8"
 metafile = true
 
 [[files]]
+file = "mods/droplight.pw.toml"
+hash = "a040423937f1e0e822053a736da7618e3c200fe41f6d099f844028575701a094"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
 metafile = true
@@ -121,6 +141,11 @@ hash = "d6227b96d49739b3cddf4a72be438b1f3a1cb66e32c91abc18d8e125a811dcb6"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
 metafile = true
@@ -148,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3fbb7fe2cdb9cc4c1307a925debf57b03fe6e383c36b01e0ed729ea995a2927a"
+metafile = true
+
+[[files]]
+file = "mods/grass-overhaul.pw.toml"
+hash = "35fde065ab98cf08e89522d852703a24faeeb31358730e1cfb0b7fa4de46a1d8"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
@@ -183,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "73e5efe26568f2b88885c533942fb6cf875a63c0f8c7582a60382d0c5d0161d9"
 metafile = true
 
 [[files]]
@@ -251,6 +291,21 @@ hash = "14c6353afbd92646a2d940bd7363b4de13c22def8d23cf20f54ccb25ec641e94"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
+metafile = true
+
+[[files]]
 file = "mods/radon.pw.toml"
 hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
 metafile = true
@@ -276,6 +331,11 @@ hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "cee442f49af5e7dff8864457075e0bcc87837f2325eb5d2c0a3f9dc1777a4d6a"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
@@ -298,4 +358,9 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "43b00bca74c688117d4188c3f3390841b20e7ed22b8a0400ff788392680bb722"
 metafile = true
