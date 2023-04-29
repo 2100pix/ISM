@@ -1,0 +1,13 @@
+name = "Sorcerium"
+filename = "Sorcerium 1.1.3 (1.19.2).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a0b688b5cceb53be84044206e0cc28f3c82f92b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4333714
+project-id = 782846

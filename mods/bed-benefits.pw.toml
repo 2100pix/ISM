@@ -1,0 +1,13 @@
+name = "Bed Benefits"
+filename = "BedBenefits-Forge-1.19.2-9.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa53155520afe0a3c0a5a9bdc6a0d7407932d461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4426618
+project-id = 377051

@@ -1,0 +1,13 @@
+name = "Wild Bushes"
+filename = "Wild Bushes 1.0.0 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00a6136ba3f3010116259e36d8b3389551cfb141"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4259757
+project-id = 514832

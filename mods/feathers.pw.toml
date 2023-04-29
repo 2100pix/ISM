@@ -1,0 +1,13 @@
+name = "Feathers"
+filename = "feathers-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26c9e41450d03ee7d8c3ad17ff766f4bc7870d16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4416864
+project-id = 699933

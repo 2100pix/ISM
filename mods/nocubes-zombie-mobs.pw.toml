@@ -1,0 +1,13 @@
+name = "NoCube's Zombie Mobs"
+filename = "nocube's_zombie_mobs_1.4.0_forge_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2148982d9d6639e634da6b60886532e40ede036a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4219612
+project-id = 645456

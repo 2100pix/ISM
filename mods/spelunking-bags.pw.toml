@@ -1,0 +1,13 @@
+name = "Spelunking Bags"
+filename = "SpelunkingBags1.19_V1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2429ae11f0cf65978b966c2ddeb3ae1be67afeb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4358278
+project-id = 779679
