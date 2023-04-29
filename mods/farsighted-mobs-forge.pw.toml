@@ -1,0 +1,13 @@
+name = "Farsighted Mobs (Forge)"
+filename = "farsighted-mobs-forge-1.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "027b771ee051b17322b8f1b84d3621c8803f52c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3984897
+project-id = 506624

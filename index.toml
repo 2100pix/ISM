@@ -1,8 +1,63 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ageing-spawners.pw.toml"
+hash = "e58f202156e44c05170056be3bbfa6440bb3701db4eb6ef59437d7337786c1af"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "7d97c74a8face79b86276545e903f7e37191b69137376c4269464fd51e9a9ca6"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "19dac6568f82ea6cd46ae33a380e0103500e2cf539bb7e9f8dc05ac7821ae7db"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d6e632815eec579cf9763057f706a5a4eae2dd9237601e63b4c32bc57ac90338"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "d1246be95620574e67ed05ffb8178d2f1f61f369e88b2617e9b70ece360e9d35"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
+metafile = true
+
+[[files]]
+file = "mods/camera-overhaul-forge.pw.toml"
+hash = "9676251204d3fa9ca384e70a477f01ce4a38a4fd95f1ec488f662298bf265909"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
 
 [[files]]
@@ -11,13 +66,38 @@ hash = "cb38bfb6f6c6d6cf6847d635dc34b7b1aab74d091e9ae7e696e16bfe8c317270"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "ceabf58671dd051c6f9e90c826af09f19fb3e58ae9e304860adbd03ac35932b7"
+metafile = true
+
+[[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "964b25f2399fc4c4ed62a1a1f5ad9d6efa84e5ff1c01243c42b66cfbb74c2127"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
 
 [[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "4da0e051253b1ca6cf6703093110c4aa05178f3beefd7867b915428abab18abc"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "038ffae31fac0823dfcddb4e93653657000c55bcd32f1d41862a45124b5e7ca8"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
 
 [[files]]
@@ -31,6 +111,66 @@ hash = "d5ca40e2692def1540d7935ded342d1596105d04c770874d07029a8d1f19b782"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
+metafile = true
+
+[[files]]
+file = "mods/farsighted-mobs-forge.pw.toml"
+hash = "d6227b96d49739b3cddf4a72be438b1f3a1cb66e32c91abc18d8e125a811dcb6"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "327a7b3255c51b7e3f4ff1c0ad3ebcb73bb8f9857466c774fcb076b5353c2cbd"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/fixmyspawnr.pw.toml"
+hash = "d66c10befae29687d0a99d083402e02ac0250811c182cb406b69c9e563ddb233"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk-forge.pw.toml"
+hash = "b6d7e76e6897813edcfbb295f605cccd5b34adc4fe9d608dd7906f9088296fe0"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "3fbb7fe2cdb9cc4c1307a925debf57b03fe6e383c36b01e0ed729ea995a2927a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-reforged.pw.toml"
+hash = "2c15dd144b734cc912adac29e62035b25b0063486b96102628a422bfeed0a249"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "653215a31a01c44794461352e81fc5f9da8ad117e7782873b1baddc8f0a585bb"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
@@ -41,11 +181,121 @@ hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "f56a5e7f29b94a6cbd5c0921e8f997e4f0c0b9b70bc79848558951dc20c94a2a"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "eebad9183a63f374b30152d791e34faf5799fcfdacace25a3222f19fd0b8959e"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+metafile = true
+
+[[files]]
+file = "mods/memorysweep.pw.toml"
+hash = "382afe7376d9e0c049395f8ef52abdc0f8004213aa88036d7a124cf6453c71dc"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "fdc19380904186df8c5fc3cd9233031666ff09c446ea39ca8fd5c9b2e9bd2fa6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "6aa0e8ea7438ac6736f1fd602e0407f445bb366ba7b3071dad6fffcd382d89bf"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c16809bbd0291ca38cff60aaae308581f4e5dd19a418a8d679a08d3ae4dd2022"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "14c6353afbd92646a2d940bd7363b4de13c22def8d23cf20f54ccb25ec641e94"
 metafile = true
 
 [[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "781896701dc26fd89483325914ee4343c427043893d8bb29bea527c149ab6029"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "a74c2a59b01831e566bcaabe70e95411d18ef665809ad12e62a14abba0c28824"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "b356d99b4c7b4b3362513d50126c95d5d8ef798035b08cb5881066b32f0b1018"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
 metafile = true
