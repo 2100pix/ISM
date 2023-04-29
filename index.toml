@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+metafile = true
+
+[[files]]
 file = "mods/ageing-spawners.pw.toml"
 hash = "e58f202156e44c05170056be3bbfa6440bb3701db4eb6ef59437d7337786c1af"
 metafile = true
