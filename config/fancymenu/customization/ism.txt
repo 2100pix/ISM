@@ -1,0 +1,163 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/custom_locals/artboard.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1001
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 115
+  width = 250
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f73cdfd0-e641-483f-bb1b-3d6b365d02481682604225197
+  y = 94
+  height = 62
+}
+
+customization {
+  custom_color_hex = #101010
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 6bb20953-231e-4f04-bb82-628d6e41fa1b1682604225197
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 115
+  width = 250
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 305dc355-bbff-42ee-aabb-2b872383ff581682604225197
+  y = 203
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/custom_locals/invs.png
+  orientation = mid-centered
+  x = -50
+  width = 100
+  action = addtexture
+  actionid = 33a16f7b-ba3d-42ff-bf53-dffe6931f4791682605010255
+  y = -21
+  height = 43
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = #FFFFFF00
+  x = -320
+  width = 639
+  bar_color = 1568c3
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = c70921ad-d1fa-4e45-86e4-1ec17dae49e71682606614274
+  y = -8
+  progress_for_element_orientation = false
+  direction = right
+  height = 7
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Powered By
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -30
+  width = 61
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 174314be-6324-4a76-8ac5-993b8aae01ad1682606658194
+  y = -36
+  alignment = left
+  height = 14
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"drippy_gl_percent"}%
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -7
+  width = 22
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1437527c-3a3a-4a3a-8cb1-7c65ec691bf71682664239738
+  y = -25
+  alignment = left
+  height = 17
+}
+
+customization {
+  path = config/fancymenu/custom_locals/mojang.png
+  orientation = bottom-left
+  x = 4
+  width = 37
+  action = addtexture
+  actionid = 8c179da6-bdd1-4b3f-9bb0-c0719bad9b5f1682664720973
+  y = -50
+  height = 31
+}
+
+customization {
+  path = config/fancymenu/custom_locals/logocurseforge.png
+  orientation = bottom-left
+  x = 44
+  width = 32
+  action = addtexture
+  actionid = c9458df4-9853-4f72-bd7d-6c91026b6d951682665267322
+  y = -44
+  height = 21
+}
+
+customization {
+  path = config/fancymenu/custom_locals/modrinth.png
+  orientation = bottom-left
+  x = 80
+  width = 23
+  action = addtexture
+  actionid = bce2671d-1d96-4516-80e9-a2cf88e197881682670362049
+  y = -46
+  height = 23
+}
+
