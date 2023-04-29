@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/droplight.pw.toml"
-hash = "a040423937f1e0e822053a736da7618e3c200fe41f6d099f844028575701a094"
+hash = "2a0eaaba9f33fb51f1bc514596ae3ba815bd4cf87bfecb38457013cd330caec8"
 metafile = true
 
 [[files]]
@@ -333,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "cee442f49af5e7dff8864457075e0bcc87837f2325eb5d2c0a3f9dc1777a4d6a"
 metafile = true
 
 [[files]]
