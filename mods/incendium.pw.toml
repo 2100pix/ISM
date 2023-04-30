@@ -1,0 +1,13 @@
+name = "Incendium"
+filename = "Incendium_v5.1.4_Hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1091b237a2955990bbd05a253a163ae37538d809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105239
+project-id = 591388

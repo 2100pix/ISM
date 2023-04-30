@@ -568,6 +568,11 @@ hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
 metafile = true
 
 [[files]]
+file = "mods/better-village-forge.pw.toml"
+hash = "7b81306e58664695856c98ee9c7c32eedb2a5e6b42649e7355e1b34fe4174d92"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover-forge.pw.toml"
 hash = "e5cfefb5bb10dc348192ec64f44f96867bd5a358c0e8a04fd934f63270dc71f5"
 metafile = true
@@ -628,6 +633,11 @@ hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "98b174f93e1b252b0886521a02f36c04833d63ab832f2008d92d2e7d79c3ed18"
+metafile = true
+
+[[files]]
 file = "mods/collectors-reap.pw.toml"
 hash = "da846a1996aa33210b2e000a0571b0608c04144b60775a4b8e72c009d95d2e28"
 metafile = true
@@ -675,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/darker-depths.pw.toml"
 hash = "c204ffe479c168639f95cd41161ecc6971f429004aa24a4fa956e8152921e332"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
+hash = "9ba5cb8bc50a58371e365fa2707f861948f6b6cf1f28961e5b36d68894a30982"
 metafile = true
 
 [[files]]
@@ -903,6 +918,16 @@ hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "90ec3d18448874a15af83c1eefee4296b324292eb4b7d1f23a97922f7187e116"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
@@ -915,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "b74024263562cb534499952b3d83dbdc229e9adf655315d941f5a1e4c5951c85"
 metafile = true
 
 [[files]]
@@ -940,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/jobsplus.pw.toml"
 hash = "5de57da1146d17da161aafed68e928bc14dc2169968ed1a5fb0058178d684d1c"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "032758ed8a02b63082679d823a35c714df9fefd3e877e2db2831e0533fe4d8a1"
 metafile = true
 
 [[files]]
@@ -1013,6 +1048,11 @@ hash = "515f529a9043d88ce57b716a90570d2bebb70e2c3c7bc0393fc795d6007e6fb5"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "0621e3ceb90e1be4fa52d2ad6a886da1a74005148a2b4c02039af43f4908fa74"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
@@ -1048,6 +1088,11 @@ hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
+file = "mods/nethers-exoticism.pw.toml"
+hash = "9a961cd5033f25bb75709a7f58023f207467ad38af6ecc2e3783b390c7e22508"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
@@ -1075,6 +1120,11 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "870e5b0ead71b2dd4f756187f14588c34272170e64e91d76d753c0730fccb660"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "3710d84bb0569cd02030708cf5b640665c89ad0779cd82f2134c3afc3838c789"
 metafile = true
 
 [[files]]
@@ -1173,6 +1223,11 @@ hash = "4184c1ab488b34f8b77837645f513e2846666a84cf82deeda7719c70a4f8a24e"
 metafile = true
 
 [[files]]
+file = "mods/second-chance-forge.pw.toml"
+hash = "81b6edd6b14a3fb29a5a0e62f2c6d465972c6e52844c372a08d599c3bb6334c7"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
 metafile = true
@@ -1233,6 +1288,11 @@ hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "cc7aa5daa3263e531f9323ddc5641f1200a9d1473e6d801ee2a7748ff8168a4d"
 metafile = true
@@ -1245,6 +1305,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e2df7bd03b226031e733bb3c56abd311a724c36ff484ee10c99760f9682a61e1"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
 
 [[files]]
@@ -1278,6 +1343,16 @@ hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "d92eeeb5769b9cdca46efabbb7991a1f67ab79b6113555c1364bb67f81a387bb"
+metafile = true
+
+[[files]]
+file = "mods/untamedwilds.pw.toml"
+hash = "6205fce22068bf47413dd2c8ed6a3ad765eaa644fee5c2f9716621975dda40d2"
+metafile = true
+
+[[files]]
 file = "mods/unusual-end.pw.toml"
 hash = "d77f618e7c8215c831ce92c556b9920e9c70e1736ef0736bbde24af6acf1718b"
 metafile = true
@@ -1288,6 +1363,11 @@ hash = "2645152342d80f0af76602c8c514dcdfff28f742234ccefec361f7f6ee5b69b9"
 metafile = true
 
 [[files]]
+file = "mods/villager-names.pw.toml"
+hash = "d47839ee6cfda7e3bc11168d11d763ae1f81d8392cf7e4ef4839ef5b0c981984"
+metafile = true
+
+[[files]]
 file = "mods/wild-bushes.pw.toml"
 hash = "7a35dd4a562380b3e78e88f60afc3f28981eeceb0e3ab931c66cb38031988160"
 metafile = true
@@ -1295,6 +1375,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "057135ce6b18a22b31e3a6100817f77c0c6effe16d29da8fc1d988404dbd691a"
+metafile = true
+
+[[files]]
+file = "mods/ydms-mobhealthbar-mod.pw.toml"
+hash = "4adae35aff76d41a4320248b223dea708efeb9a900f603d4721ecad75dcc6184"
 metafile = true
 
 [[files]]
