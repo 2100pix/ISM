@@ -543,6 +543,11 @@ hash = "49d8ccb9a39c77828617c9479660935c80dd12359bc98d13a75c42f4478c51b3"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "3b9ddfb9241110d9901875265ffc7c27b712334cbce1eaac92f2352b93366c6b"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "df85d08e49fbf3cc7d70e60be05183fbcdd706157557e2708184377aff276d10"
 metafile = true
@@ -593,6 +598,11 @@ hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
 
 [[files]]
+file = "mods/callable-horses.pw.toml"
+hash = "914c652347a5a4142e0dfdf801926a7bc0bd77be6edb2a032cf88a01a2dd37bb"
+metafile = true
+
+[[files]]
 file = "mods/camera-overhaul-forge.pw.toml"
 hash = "9676251204d3fa9ca384e70a477f01ce4a38a4fd95f1ec488f662298bf265909"
 metafile = true
@@ -620,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/collectors-reap.pw.toml"
 hash = "da846a1996aa33210b2e000a0571b0608c04144b60775a4b8e72c009d95d2e28"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
@@ -883,6 +898,11 @@ hash = "35fde065ab98cf08e89522d852703a24faeeb31358730e1cfb0b7fa4de46a1d8"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
@@ -895,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
 metafile = true
 
 [[files]]
@@ -1035,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/nocubes-zombie-mobs.pw.toml"
 hash = "9701ecb954a11efc07e9558ec2a9ecc800adaf54e2ace3765f8871ada8f01b6e"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
 metafile = true
 
 [[files]]
@@ -1260,6 +1290,11 @@ metafile = true
 [[files]]
 file = "mods/wild-bushes.pw.toml"
 hash = "7a35dd4a562380b3e78e88f60afc3f28981eeceb0e3ab931c66cb38031988160"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "057135ce6b18a22b31e3a6100817f77c0c6effe16d29da8fc1d988404dbd691a"
 metafile = true
 
 [[files]]
