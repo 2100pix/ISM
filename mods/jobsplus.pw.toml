@@ -3,11 +3,9 @@ filename = "JobsPlus 1.19.2-0.9.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6a9eb97d66210da130de8f0f66fd3d540fc0f120"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/7j1lc45v9i1hww9/JobsPlus%2B1.19.2-0.9.4.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4370689
-project-id = 535061
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "211b1993beefe4d13f322f663fac2ad82e522170e3b19636c935f602e42a1998"

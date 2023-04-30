@@ -3,11 +3,9 @@ filename = "frozen_delight_1.3.1_forge_1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be783315a268bee6ea4c03d2e4ccf7461bac186b"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/niskswxlnqu1g1x/frozen_delight_1.3.1_forge_1.19.2.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4455693
-project-id = 609918
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d5a34c7a47dae2a978a956787c8a6f7b9a00410c72675018c11ba865a01eeaf7"
