@@ -1,0 +1,13 @@
+name = "Jobs+"
+filename = "JobsPlus 1.19.2-0.9.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a9eb97d66210da130de8f0f66fd3d540fc0f120"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4370689
+project-id = 535061

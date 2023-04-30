@@ -1,0 +1,13 @@
+name = "Geophilic – Biome Overhauls"
+filename = "geophilic‐1.19-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb1915cc33b5517a62465899a71d4beab217cd8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4482245
+project-id = 711216
