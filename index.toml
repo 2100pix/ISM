@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-delight.pw.toml"
-hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
+hash = "6dbca8e45a528588632f97ab6a715d4f460535ac074cf92ce5f7cbbc9ce45465"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-compats.pw.toml"
-hash = "cfa5adacea3e86d4d474fdedce522b9f45e5f152ac85e29b535d6b27bbe18ab2"
+hash = "bb9073e32c83ebfabc0654523ae47ef3f8f7930b65344a88a24946ff2c739249"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozen-delight.pw.toml"
-hash = "a8597cf2aad4e86fdf3fa19a21aa999fc560005595fec76ae04817365f5997f6"
+hash = "a9cdef2552c50c86939203a53298dac3b492b3cc9daa7ab155297a48788ec2e8"
 metafile = true
 
 [[files]]
@@ -914,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/jobsplus.pw.toml"
-hash = "487605adbd4773a4c5622c7230cb504fd2eb34e37895a311e8f0c218aab137b0"
+hash = "5de57da1146d17da161aafed68e928bc14dc2169968ed1a5fb0058178d684d1c"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
+hash = "cc7aa5daa3263e531f9323ddc5641f1200a9d1473e6d801ee2a7748ff8168a4d"
 metafile = true
 
 [[files]]
