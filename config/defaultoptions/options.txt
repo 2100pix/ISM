@@ -12,7 +12,7 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -29,7 +29,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:3
 particles:0
 maxFps:120
 graphicsMode:0
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/Faithless.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Faithless.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

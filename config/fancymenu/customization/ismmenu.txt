@@ -37,9 +37,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-left
-  x = 11
+  x = 151
   action = movebutton
-  y = -10
+  y = 78
 }
 
 customization {
@@ -69,9 +69,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-left
-  x = 36
+  x = 98
   action = movebutton
-  y = 30
+  y = 40
 }
 
 customization {
@@ -99,9 +99,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-left
-  x = 106
+  x = 168
   action = movebutton
-  y = 30
+  y = 40
 }
 
 customization {
@@ -134,9 +134,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-left
-  x = 36
+  x = 98
   action = movebutton
-  y = -41
+  y = -29
 }
 
 customization {
@@ -164,9 +164,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = mid-left
-  x = 36
+  x = 98
   action = movebutton
-  y = 6
+  y = 17
 }
 
 customization {
@@ -205,11 +205,11 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 143
+  width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 36de45bf-2db3-4f5f-918e-14d999bf4b8d1682605507576
-  y = 272
-  height = 60
+  y = 282
+  height = 50
 }
 
 customization {
@@ -259,18 +259,31 @@ customization {
 }
 
 customization {
+  orientation = mid-centered
+  shape = rectangle
+  color = 00000040
+  x = 16
+  width = 266
+  action = addshape
+  actionid = bf112c0a-2db0-4551-a69a-05f00ac161241682670497582
+  y = -116
+  height = 231
+}
+
+customization {
   orientation = mid-left
   restartbackgroundanimations = false
   delayappearanceseconds = 0.9
+  buttonaction = openlink;https://discord.gg/ARkfSn7pYW%btnaction_splitter_fm%
   label = 
   loopbackgroundanimations = false
   fadein = true
   fadeinspeed = 1.0
-  x = 36
+  x = 75
   width = 20
   action = addbutton
   actionid = ca4f01a3-891c-4aa2-a60b-161c9ff832841682648025756
-  y = 54
+  y = -6
   delayappearance = true
   delayappearanceeverytime = false
   height = 20
@@ -285,11 +298,11 @@ customization {
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
-  x = 36
+  x = 98
   width = 139
   action = addbutton
   actionid = 9fffea86-853a-4706-9fbe-610f96dc40a81682643729205
-  y = -18
+  y = -6
   delayappearance = true
   delayappearanceeverytime = false
   height = 20
@@ -301,14 +314,14 @@ customization {
   path = config/fancymenu/custom_locals/logodiscord.png
   fadein = true
   fadeinspeed = 1.0
-  x = 38
-  width = 17
+  x = 76
+  width = 18
   action = addtexture
   actionid = 14fc1f8b-3f63-4056-85b7-c3b2177a0fb21682649105003
-  y = 56
+  y = -5
   delayappearance = true
   delayappearanceeverytime = false
-  height = 17
+  height = 18
 }
 
 customization {
@@ -334,26 +347,14 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
-  shape = rectangle
-  color = 00000040
-  x = 17
-  width = 266
-  action = addshape
-  actionid = bf112c0a-2db0-4551-a69a-05f00ac161241682670497582
-  y = -116
-  height = 231
-}
-
-customization {
   path = config/fancymenu/custom_locals/logoism.png
   orientation = mid-left
-  x = 22
-  width = 166
+  x = 65
+  width = 198
   action = addtexture
   actionid = 8515ca41-1533-4397-b7cc-0cd18716cead1682684350147
-  y = -114
-  height = 53
+  y = -113
+  height = 61
 }
 
 customization {
@@ -361,23 +362,22 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://github.com/2100pix/ISM/blob/edd2ce95e9e3592bd2ea8fdaaf1d8980f195952a/news/news_content.txt
   text_border = 0
   case_mode = normal
   source_mode = web
   line_spacing = 1
-  x = 28
-  width = 243
+  x = 25
+  width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = ee28e7ff-2aba-4909-92be-2aa716ce837b1682685018212
-  y = 10
+  y = 7
   alignment = left
-  height = 75
+  height = 99
 }
 
 customization {
   orientation = mid-centered
-  x = 27
+  x = 25
   width = 244
   action = addwebtexture
   actionid = 5c038b19-9742-4188-8132-2815e649fd831682685340475
@@ -403,5 +403,36 @@ customization {
   y = 52
   alignment = left
   height = 21
+}
+
+customization {
+  delayappearanceseconds = 2.0
+  slim = false
+  auto_skin = false
+  scale = 40
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 5967d2ee-03a5-4341-9860-7b75debb8d201683456408818
+  playername = 64xenn
+  delayappearance = true
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 72
+  orientation = top-left
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/f4c5a158c76fa7b39c09bc6f14261e42e886aa527c0c6308c0b0a015ddf3415a
+  crouching = false
+  x = 275
+  width = 24
+  parrot_left_shoulder = false
+  y = 152
+  parrot = false
+  delayappearanceeverytime = false
 }
 

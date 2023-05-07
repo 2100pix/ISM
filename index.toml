@@ -22,7 +22,7 @@ hash = "c2af2357472205f596277e7aa96eca5c4426f6813e247820b11bf4781c37033f"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "a50b2bb441550f38d3f9ae264825f9a2aea59ffd1d029b35781c96bcadc56d53"
+hash = "a14da619a968f4f842157c26c8049809c15d8fd031d7f3975a86eb206328cbdc"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -466,19 +466,19 @@ hash = "b6418057277dd2b84565c05d902345ed383bb708ed1351d39c14800026bd542f"
 
 [[files]]
 file = "config/awesomedungeon_1.properties"
-hash = "9a4ee5b7060849d87d6c4ed8b1029abacd1c1633205c07121bcca49a0e96377b"
+hash = "ae051166293b2039514a9facad75a128e602cda77b8f95a34b32fbd2a24fd349"
 
 [[files]]
 file = "config/awesomedungeonend_1.properties"
-hash = "04b482dc35284389fe9f871dab0152cd39f333f00c64b2d0ab92cb0d98389765"
+hash = "2827f8f66fb126510b068cd478e56695ee95b4425e22eafefe1622fd1974e159"
 
 [[files]]
 file = "config/awesomedungeonnether_1.properties"
-hash = "fc6aec95b01284dc9ec62bf196dfabb28d42c4177baa6bda36e5b6769d01b198"
+hash = "012a847a4ec17d58790260a620411989770005ce61730b2712d58a6c1155891b"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "a2116c9638b5640b116c11e3499f4143abb7c456d78cef59e02ea449f76df478"
+hash = "9d808fca74ada2b81c2ea6b5a5dc46b76900d7d9166f2d6a8e5b99d7cc85f0b1"
 
 [[files]]
 file = "config/backpacked-client.toml"
@@ -606,7 +606,7 @@ hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "48844562faa6d512f3722213a450a1f90bad2de5e12c438ff53044329316894f"
+hash = "2c5b9b693c768e83615a0ce2c022c5e6f0bec25dc2523c4f4986280f7943262d"
 
 [[files]]
 file = "config/biomemakeover.json"
@@ -686,11 +686,11 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "ad78f94050da1c61d752bb0be73f41a169e7d85f62ec418d39d38fee77b7f9fb"
+hash = "6b24c6259ce4766ee64ee9f32aa8e756ee239809cf445e63b67acccc72152dc9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "a0420d7180d33ab5c564f9562c6f86e4e0a88dd5a8268c6f73bd737f2cd68fab"
+hash = "1a137cb725b773162c7d57bc4122aede8088cc4cf495662737757585afcd0c3d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -714,7 +714,7 @@ hash = "6a5d69bd73ad89ee598c00403d43c4baf2cfe288307cea40c0715f3e089698a8"
 
 [[files]]
 file = "config/dungeonvanilla_1.properties"
-hash = "fa746d0d671d0f1d632907a4f0d85005f65eeee693a824fcd55858b3cb8f175a"
+hash = "ed05839695a8680092da11537940a171e769b7b978418502d830ab12ee5bb6f5"
 
 [[files]]
 file = "config/dynamic_lights_reforged.toml"
@@ -806,7 +806,7 @@ hash = "8bc26e06f8452c74b4ab54fb40fd52bc99025b9346ed5a4c7340395a2ecda5d1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "293ca94980ea93bc5ebd8e896869af0bb4d1ed0ae2e9e9580906d1e1cca08c3c"
+hash = "9ef9f4a6183e096d455588c27725666bcf36460985f1e3f798f94321200755a1"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -814,7 +814,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "e21b5f8a8d097ff05bee619817c6dfd714614a512839842841c47e04f8a42c16"
+hash = "6814ffda1c734b41a634d463e5d53d45ed84fe6b2acab3dd4da50dc48d3b9690"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -874,7 +874,7 @@ hash = "ae7533e9a074ffea96991df37d1c52f3e70262ad5e15f10d1ddf2c897d13466e"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "a99a5cf841bcbb04dac72823b1a6245c6acb6beec1a75e8361bce4279e180cbe"
+hash = "d05b505386e72f418a20aec1a3074d1290108baf718fff10de5bd24eb4b3a862"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -934,7 +934,7 @@ hash = "6ee675f346b69c56fd6d29f90a719a713ce44385f4502dd1df505a97e769e06d"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "02d728833f5ada3f3dbce5e635639f95799e5ae857644e953199ad2c2cdd3d9d"
+hash = "2e1185be3bf4566654c1128526d89ff4a1e238e55577277ef471e21b49face12"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -958,11 +958,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "4cc5adb8a01a0486e2186102330a7506beb8d749ea7412bc80563c3ae3fd82cb"
+hash = "8e0b13bf91edfd4a25018574865e839aa220a3eb68d5567e8c46a34463e27407"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
+hash = "a7c0108e3332a7d5eab166df1cd286198e9ea67fe7625b2fe7d766695f3697c7"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -982,11 +982,11 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
+hash = "7d3b65424c0cbc52d52c9a6af850912a0cd47bb5315479cb74fc02100f282458"
 
 [[files]]
 file = "config/kiwi-client.toml"
-hash = "c066ceb70bfd23d921a72caef66d4fc7a53f001a69bd136f639ad652dcc927da"
+hash = "29deaafaed6edd2e206e356464b8257a3aec9ac840e1ac239b9d72a7c1a74752"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1010,7 +1010,7 @@ hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "a39313d86aa26b49905a8c9f033dee4577f3764b4465fc1899200418331153d6"
+hash = "6730dd05e6cf945a0ab3a6ee12ea54ce29b0c002a13973f936aa1ec9965b3cbf"
 
 [[files]]
 file = "config/memorysweep-common.toml"
@@ -1018,7 +1018,7 @@ hash = "29dc7eae9066c0f0d9ab8bd605009b7640b270c3a255502ac10ff8a23242a9a3"
 
 [[files]]
 file = "config/mobhealthbar-client.toml"
-hash = "7596d458a96baa9ba324ff1c32bb9b013001fac3bbb70f6cc7e808f6cec6e3ce"
+hash = "c959dd5d6f53dd8ff6c23ee19ae7c8a117179432cf6824381b51a827057c2e1d"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -1086,7 +1086,7 @@ hash = "e4ac04ab555f559d5103779d7336bfbae4a4cd167e023301feeeff9e0059fd24"
 
 [[files]]
 file = "config/plasmovoice/server/languages/.crowdin/timestamp"
-hash = "4d831a8051e813140aba87e6cfb28ccb23e196775023c0428c1c228f90f05877"
+hash = "d393caba21912a1a847235db43cc986389580edc6043cb2f7eec2561e9fb3382"
 
 [[files]]
 file = "config/plasmovoice/server/languages/en_us.toml"
@@ -1114,7 +1114,7 @@ hash = "884329027a75b1e1ca268334d687fe62ecc84bbc385cb59037f772a2a746c173"
 
 [[files]]
 file = "config/rare-ice.properties"
-hash = "e2309db919151ec4f8d4b646593ddeb2edb5a5e0f8f5d1c81ae1eefadcbe57d9"
+hash = "3522489ec2f7a61324e3ffbbc437cf50179920af47f444657b81165a432f3e18"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1130,6 +1130,10 @@ hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
 
 [[files]]
 file = "config/rottencreatures-common-3.toml.bak"
+hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
+
+[[files]]
+file = "config/rottencreatures-common-4.toml.bak"
 hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
 
 [[files]]
@@ -1190,15 +1194,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2c828c4f871abf2d302bfed298c661a9660bb20670f176c56a9eb208674d1d11"
+hash = "9bedc206ef34f0e7a1787a4931fbfd9640939128bb73add1832468cb82bc3594"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "32acb14c57999a22b876e30e5c8ccaec8cf21d3e775f34fd9d01ac98e3449394"
+hash = "b9ac65a6e7e059918b0654aaba7fc8de83d84fca9b72cfa9e5eb41e1ca9565d1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "1adfb2581587724393f08810a065615896c345389ddc07ebf4d59157960a2382"
+hash = "084336f99a1a4c7c2af7a56797c111990a4888b4b8b26db0a4d7e2086907b3a3"
 
 [[files]]
 file = "config/spark/config.json"
@@ -1838,6 +1842,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+metafile = true
+
+[[files]]
+file = "mods/invs-collectible-ii.pw.toml"
+hash = "56779d222e94703ed07d83b08120998d4004635122bb246f81f2f6eecfb9ca3f"
 metafile = true
 
 [[files]]

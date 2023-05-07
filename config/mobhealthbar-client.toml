@@ -18,7 +18,7 @@
 	[general.hpbar]
 		#Health Bar Type
 		#Range: 1 ~ 13
-		type = 1
+		type = 5
 		#X Position
 		#Range: > -2147483648
 		x-pos = 0
@@ -27,10 +27,10 @@
 		y-pos = 0
 		#Render Distance
 		#Range: > 0
-		render-distance = 2000
+		render-distance = 100
 		#Scale Nametag
 		#Range: 0.0 ~ 1.7976931348623157E308
-		scale-name = 1.0
+		scale-name = 0.8999999999999999
 		#Scale Bar
 		#Range: 0.0 ~ 1.7976931348623157E308
 		scale-bar = 1.0
