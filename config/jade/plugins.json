@@ -46,6 +46,11 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -53,5 +58,13 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "gravestone": {
+    "grave": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }
