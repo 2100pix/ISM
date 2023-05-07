@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/.TESSS123.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/Elenai-Dodge-2-Client.toml"
 hash = "8013ec44478266fa7370eb778433517b394f8767fe9420ed7e2983cf5489ba90"
 
