@@ -466,19 +466,19 @@ hash = "b6418057277dd2b84565c05d902345ed383bb708ed1351d39c14800026bd542f"
 
 [[files]]
 file = "config/awesomedungeon_1.properties"
-hash = "ae051166293b2039514a9facad75a128e602cda77b8f95a34b32fbd2a24fd349"
+hash = "d011b5cd97f344b4e5f15f678a097112f4dafebff4596da4800bfb7aa34d8d7f"
 
 [[files]]
 file = "config/awesomedungeonend_1.properties"
-hash = "2827f8f66fb126510b068cd478e56695ee95b4425e22eafefe1622fd1974e159"
+hash = "80e39d566382cbea7014cc81950b05ec27e20cc0bdfde16df3d82b4f049356d9"
 
 [[files]]
 file = "config/awesomedungeonnether_1.properties"
-hash = "012a847a4ec17d58790260a620411989770005ce61730b2712d58a6c1155891b"
+hash = "74e2c2d277654f4dad04f592b643a05bdbf9f3ef0cc4ecfb6d9b74d199d95aa1"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "9d808fca74ada2b81c2ea6b5a5dc46b76900d7d9166f2d6a8e5b99d7cc85f0b1"
+hash = "ac7c8efeafcf49b6f6ae3d02f448fc9fd16af5d759e259ea8083607ee855948c"
 
 [[files]]
 file = "config/backpacked-client.toml"
@@ -606,7 +606,7 @@ hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "2c5b9b693c768e83615a0ce2c022c5e6f0bec25dc2523c4f4986280f7943262d"
+hash = "00a7009f1c94f47cb459755655eda75eef43868250408ac1e051864e3f8e712f"
 
 [[files]]
 file = "config/biomemakeover.json"
@@ -686,11 +686,11 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6b24c6259ce4766ee64ee9f32aa8e756ee239809cf445e63b67acccc72152dc9"
+hash = "3206d81922db277777377f19554d127a400d703e7e1ff81e51944371803c8b3a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1a137cb725b773162c7d57bc4122aede8088cc4cf495662737757585afcd0c3d"
+hash = "a60a050dc5131ccef50cafb4c90d8923d3dcc8b7c39be9fd270454957257d30d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -714,7 +714,7 @@ hash = "6a5d69bd73ad89ee598c00403d43c4baf2cfe288307cea40c0715f3e089698a8"
 
 [[files]]
 file = "config/dungeonvanilla_1.properties"
-hash = "ed05839695a8680092da11537940a171e769b7b978418502d830ab12ee5bb6f5"
+hash = "55e285f55a62dc24ed2e2f04aa93d12c99ff9e96b5da77530f40ce9936c0bb9c"
 
 [[files]]
 file = "config/dynamic_lights_reforged.toml"
@@ -806,7 +806,7 @@ hash = "8bc26e06f8452c74b4ab54fb40fd52bc99025b9346ed5a4c7340395a2ecda5d1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9ef9f4a6183e096d455588c27725666bcf36460985f1e3f798f94321200755a1"
+hash = "3019d8991484967fe47caad47dc31358a4b3cf918ea7aa0a5ae1ec33bf77a776"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -874,7 +874,7 @@ hash = "ae7533e9a074ffea96991df37d1c52f3e70262ad5e15f10d1ddf2c897d13466e"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "d05b505386e72f418a20aec1a3074d1290108baf718fff10de5bd24eb4b3a862"
+hash = "f3515627a6237efed68e09b2e76161c1916fddef5e6073637617532126411e40"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -958,7 +958,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "8e0b13bf91edfd4a25018574865e839aa220a3eb68d5567e8c46a34463e27407"
+hash = "33710835074b708b73fb788689e463ddc3cc5f64ac0e6be626704337567a3f28"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1010,7 +1010,7 @@ hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "6730dd05e6cf945a0ab3a6ee12ea54ce29b0c002a13973f936aa1ec9965b3cbf"
+hash = "c2b933cc980c88487836332093a25fa9d66dc6b63954149730372e51ac2e7680"
 
 [[files]]
 file = "config/memorysweep-common.toml"
@@ -1114,7 +1114,7 @@ hash = "884329027a75b1e1ca268334d687fe62ecc84bbc385cb59037f772a2a746c173"
 
 [[files]]
 file = "config/rare-ice.properties"
-hash = "3522489ec2f7a61324e3ffbbc437cf50179920af47f444657b81165a432f3e18"
+hash = "f7e1a27ec7563ab577cf10a11af47d14367f892408afc04373ed00c6c46f9996"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1194,15 +1194,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9bedc206ef34f0e7a1787a4931fbfd9640939128bb73add1832468cb82bc3594"
+hash = "e6d23c366f738c6f99296b580fbdcc2f2121623b8c8ee94e837c4c11a79d64a3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b9ac65a6e7e059918b0654aaba7fc8de83d84fca9b72cfa9e5eb41e1ca9565d1"
+hash = "0f860874d6d3bfb8bfd0e17882e2ea77072550e345d9c8d6530c43438314ac03"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "084336f99a1a4c7c2af7a56797c111990a4888b4b8b26db0a4d7e2086907b3a3"
+hash = "d0764e600937daeef57c252beb9c452c8fb6170f038c2a25011058460d15cd20"
 
 [[files]]
 file = "config/spark/config.json"
@@ -1298,7 +1298,7 @@ hash = "0053d0df8da6d1eab3cb5426220732742c11a205f7836bcfcf463bc8d67eea9a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "e1744617032be057f31190588c4a75dc29b13d361ee04858d685e3578443e328"
+hash = "b11f7cd35def986ed18e7fe0ad8084b019500298bda10f9a347d480a3de6084f"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1585,6 +1585,11 @@ hash = "9ba5cb8bc50a58371e365fa2707f861948f6b6cf1f28961e5b36d68894a30982"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
@@ -1815,6 +1820,11 @@ hash = "90ec3d18448874a15af83c1eefee4296b324292eb4b7d1f23a97922f7187e116"
 metafile = true
 
 [[files]]
+file = "mods/guidebook.pw.toml"
+hash = "506cd039c036174028a2fa75a90ce8140e888a8bb317ac5a684de807160ee5ea"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.pw.toml"
 hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
 metafile = true
@@ -1846,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/invs-collectible-ii.pw.toml"
-hash = "56779d222e94703ed07d83b08120998d4004635122bb246f81f2f6eecfb9ca3f"
+hash = "9f72d6f7940671bcf59cb3c9be602e7a384a1a011c4e4bb537f56e381bfdc731"
 metafile = true
 
 [[files]]
@@ -1967,6 +1977,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "972866355feda88298ea83195d38e392cd8b541f0789a99b61fa460654f103c3"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "bb047bbb974ba6fee2ea38a36764e59128e4a823fe4c731a68d7c0bd0f5dbdfe"
 metafile = true
 
 [[files]]
@@ -2177,6 +2192,11 @@ metafile = true
 [[files]]
 file = "mods/spelunking-bags.pw.toml"
 hash = "90211641842f7878c7638b4d97f64e912ccb492bfd25437d6ca0b4b365215dce"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
 metafile = true
 
 [[files]]
