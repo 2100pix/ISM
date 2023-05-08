@@ -466,19 +466,19 @@ hash = "b6418057277dd2b84565c05d902345ed383bb708ed1351d39c14800026bd542f"
 
 [[files]]
 file = "config/awesomedungeon_1.properties"
-hash = "d011b5cd97f344b4e5f15f678a097112f4dafebff4596da4800bfb7aa34d8d7f"
+hash = "ea1934a9e601f7e1b41a6737ef5a2f78ae3d02a1f1a97975eed57ce1af1fc0e3"
 
 [[files]]
 file = "config/awesomedungeonend_1.properties"
-hash = "80e39d566382cbea7014cc81950b05ec27e20cc0bdfde16df3d82b4f049356d9"
+hash = "f9c636031ea1738ec94800db836e3259780cf556eebf55066a8c7c271c8fea3c"
 
 [[files]]
 file = "config/awesomedungeonnether_1.properties"
-hash = "74e2c2d277654f4dad04f592b643a05bdbf9f3ef0cc4ecfb6d9b74d199d95aa1"
+hash = "ebee620b74a35ac374afeb5478b78555bc2661bf0b67081e47cd24ee48e30c73"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "ac7c8efeafcf49b6f6ae3d02f448fc9fd16af5d759e259ea8083607ee855948c"
+hash = "7bfc8e1d52f382f77f387abeb1d61cfb273aa35955afd3b074e06c1e42ab54ea"
 
 [[files]]
 file = "config/backpacked-client.toml"
@@ -606,7 +606,7 @@ hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
 
 [[files]]
 file = "config/bettervillage_1.properties"
-hash = "00a7009f1c94f47cb459755655eda75eef43868250408ac1e051864e3f8e712f"
+hash = "a9ee5c36743cc9d41fef0fb62f49621af7a03e109d545b1dbc230d06cbc4578c"
 
 [[files]]
 file = "config/biomemakeover.json"
@@ -714,7 +714,7 @@ hash = "6a5d69bd73ad89ee598c00403d43c4baf2cfe288307cea40c0715f3e089698a8"
 
 [[files]]
 file = "config/dungeonvanilla_1.properties"
-hash = "55e285f55a62dc24ed2e2f04aa93d12c99ff9e96b5da77530f40ce9936c0bb9c"
+hash = "f045ad640c38a5a71e3331f4e81f7cd18c4aaaa9c517d7026c3e570b9cbf47d0"
 
 [[files]]
 file = "config/dynamic_lights_reforged.toml"
@@ -806,7 +806,7 @@ hash = "8bc26e06f8452c74b4ab54fb40fd52bc99025b9346ed5a4c7340395a2ecda5d1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "3019d8991484967fe47caad47dc31358a4b3cf918ea7aa0a5ae1ec33bf77a776"
+hash = "565846977f30b3e0d9411c5ad17a597a94155bc97b656a1925308b917b8c037a"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -874,7 +874,7 @@ hash = "ae7533e9a074ffea96991df37d1c52f3e70262ad5e15f10d1ddf2c897d13466e"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "f3515627a6237efed68e09b2e76161c1916fddef5e6073637617532126411e40"
+hash = "10b288cd46546eea4cb7b02024569a182e8fb15c9bf03522eb94ae55691adfde"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -903,6 +903,10 @@ hash = "aa7adcd5e884af97d4efbf65253370371e9d9d735f7c99999df30df969143b06"
 [[files]]
 file = "config/friendsandfoes.json"
 hash = "2730d81ba97ae9fbebb2f765ba40622f0325d5128769f5ee2edd70e4f8ab4af6"
+
+[[files]]
+file = "config/gbook-client.toml"
+hash = "ebb0f650dd80e799bfd2fdea30fa65402ef61ffd368ea3272e538e33d8a0262d"
 
 [[files]]
 file = "config/goblintraders-common.toml"
@@ -1010,7 +1014,7 @@ hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "c2b933cc980c88487836332093a25fa9d66dc6b63954149730372e51ac2e7680"
+hash = "e6bc4f145b3470bc4f46f165c9c776de5d1926d5cdf93dbdb99ab3c079df26b3"
 
 [[files]]
 file = "config/memorysweep-common.toml"
@@ -1114,7 +1118,7 @@ hash = "884329027a75b1e1ca268334d687fe62ecc84bbc385cb59037f772a2a746c173"
 
 [[files]]
 file = "config/rare-ice.properties"
-hash = "f7e1a27ec7563ab577cf10a11af47d14367f892408afc04373ed00c6c46f9996"
+hash = "1ab00f8a290b3c6442e5243891046cf37f90ddce2bfd116c2fd5e7ce2969a976"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1194,15 +1198,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "e6d23c366f738c6f99296b580fbdcc2f2121623b8c8ee94e837c4c11a79d64a3"
+hash = "c7dd0323c2ca0ba5b741f1ae8102d685c3277fbd0cec75227323618c7a55620d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0f860874d6d3bfb8bfd0e17882e2ea77072550e345d9c8d6530c43438314ac03"
+hash = "8882efeff50764132fd5e10d28ba820abf6310348479d9d6d83e4284a640e593"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "d0764e600937daeef57c252beb9c452c8fb6170f038c2a25011058460d15cd20"
+hash = "a73dbacd181e50ead514b1033e3847b8d896a559f55782ff264d8e6337b99e57"
 
 [[files]]
 file = "config/spark/config.json"
@@ -1298,7 +1302,7 @@ hash = "0053d0df8da6d1eab3cb5426220732742c11a205f7836bcfcf463bc8d67eea9a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b11f7cd35def986ed18e7fe0ad8084b019500298bda10f9a347d480a3de6084f"
+hash = "1d471ec8a12373d69ad2cc222832ceee1ff9169ed0425f4d6af9fd743c2216d6"
 
 [[files]]
 file = "config/xaeropatreon.txt"
