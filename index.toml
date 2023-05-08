@@ -1835,6 +1835,11 @@ hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
+file = "mods/illuminations-forge.pw.toml"
+hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
 hash = "950d11bc633e05198af4da50a5281f41fda511910f168c72a3f41dbb0768a804"
 metafile = true
@@ -1842,6 +1847,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-forge.pw.toml"
+hash = "ee23051e2319385f19dc8b0b936143aeaa48fc17e5bfebd0c4cc77e81ded76de"
 metafile = true
 
 [[files]]
@@ -2022,6 +2032,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0b8d08a02e7d15672ba57cb219ee1e7ec2a467546d76da62aa2aacb0fbd316ed"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
