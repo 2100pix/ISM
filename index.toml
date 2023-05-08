@@ -1589,11 +1589,6 @@ hash = "9ba5cb8bc50a58371e365fa2707f861948f6b6cf1f28961e5b36d68894a30982"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
@@ -2181,11 +2176,6 @@ metafile = true
 [[files]]
 file = "mods/spelunking-bags.pw.toml"
 hash = "90211641842f7878c7638b4d97f64e912ccb492bfd25437d6ca0b4b365215dce"
-metafile = true
-
-[[files]]
-file = "mods/stalwart-dungeons.pw.toml"
-hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
 metafile = true
 
 [[files]]
