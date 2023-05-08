@@ -2353,3 +2353,15 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
 metafile = true
+
+[[files]]
+file = "newsboard/news_content.txt"
+hash = "d99feb26f60c22608fe4d652e1c787aa85a538da4919f7c6cb384d93fd71dc34"
+
+[[files]]
+file = "newsboard/news_image.png"
+hash = "6f125348634793be36a72555620d590bad85d41920dbc3c136e5a077e66a79f7"
+
+[[files]]
+file = "newsboard/server.png"
+hash = "7c394d8d0e931a8d28faaf29bbf63e43b0f2b1d6a937e8ec3ebfdc44b835d883"
