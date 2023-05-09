@@ -1314,6 +1314,21 @@ hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "d324f2c7225fb8c6ea67f18655bbced84fccbacfbe0c7ace543a980cf36c9ebe"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "cca0e3faf4b1ff5c23f54715c252ed26cc098a522de5ca6b9e38f1f70cfe0910"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-mods.pw.toml"
+hash = "6d33a75edce39f84cdd90d96e5d3f0713b2e78794102c9859cd43706081dd27e"
+metafile = true
+
+[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "799a68af763eaffd51771cb3bab81e9f1cfd5f333b0b36f04522ba1bc30fed2d"
 metafile = true
