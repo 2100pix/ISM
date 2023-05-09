@@ -1,0 +1,13 @@
+name = "Explosion't"
+filename = "Explosiont-1.19.2-2.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c27f0e0b3bf10c8a8c74003dcbbc4c813ff52dbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4414100
+project-id = 388909

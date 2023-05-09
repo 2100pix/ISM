@@ -66,6 +66,9 @@
 			aspen = true
 			grimwood = true
 
+		[types.wood_type.deeperdarker]
+			echo = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.blue_skies]
@@ -129,6 +132,9 @@
 			yellow_blossom = true
 			red_blossom = true
 			ancient = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
 
 [entries]
 
