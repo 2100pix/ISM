@@ -1589,6 +1589,11 @@ hash = "9ba5cb8bc50a58371e365fa2707f861948f6b6cf1f28961e5b36d68894a30982"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
@@ -1819,6 +1824,11 @@ hash = "90ec3d18448874a15af83c1eefee4296b324292eb4b7d1f23a97922f7187e116"
 metafile = true
 
 [[files]]
+file = "mods/guidebook.pw.toml"
+hash = "506cd039c036174028a2fa75a90ce8140e888a8bb317ac5a684de807160ee5ea"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.pw.toml"
 hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
 metafile = true
@@ -1829,6 +1839,11 @@ hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
+file = "mods/illuminations-forge.pw.toml"
+hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
 hash = "950d11bc633e05198af4da50a5281f41fda511910f168c72a3f41dbb0768a804"
 metafile = true
@@ -1836,6 +1851,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-forge.pw.toml"
+hash = "ee23051e2319385f19dc8b0b936143aeaa48fc17e5bfebd0c4cc77e81ded76de"
 metafile = true
 
 [[files]]
@@ -1974,6 +1994,11 @@ hash = "972866355feda88298ea83195d38e392cd8b541f0789a99b61fa460654f103c3"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "bb047bbb974ba6fee2ea38a36764e59128e4a823fe4c731a68d7c0bd0f5dbdfe"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "49d56d76531eb631ea7978fa52729325a41c262d20fa605f7fa2732f5521f126"
 metafile = true
@@ -2011,6 +2036,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0b8d08a02e7d15672ba57cb219ee1e7ec2a467546d76da62aa2aacb0fbd316ed"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
@@ -2174,8 +2204,18 @@ hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
 file = "mods/spelunking-bags.pw.toml"
 hash = "90211641842f7878c7638b4d97f64e912ccb492bfd25437d6ca0b4b365215dce"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
 metafile = true
 
 [[files]]
