@@ -2353,11 +2353,6 @@ hash = "d92eeeb5769b9cdca46efabbb7991a1f67ab79b6113555c1364bb67f81a387bb"
 metafile = true
 
 [[files]]
-file = "mods/untamedwilds.pw.toml"
-hash = "6205fce22068bf47413dd2c8ed6a3ad765eaa644fee5c2f9716621975dda40d2"
-metafile = true
-
-[[files]]
 file = "mods/unusual-end.pw.toml"
 hash = "1e2f6b8d6cdfebac3b2b4a6729abeccff0d89ab8047f0215c96be15f852a4537"
 metafile = true
