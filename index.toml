@@ -1498,11 +1498,6 @@ hash = "49d8ccb9a39c77828617c9479660935c80dd12359bc98d13a75c42f4478c51b3"
 metafile = true
 
 [[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "3b9ddfb9241110d9901875265ffc7c27b712334cbce1eaac92f2352b93366c6b"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "95f5b135b9f76288917034a11d002e02c4643b985efac3735363fc0ee92df39c"
 metafile = true
@@ -1764,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-compats.pw.toml"
-hash = "bb9073e32c83ebfabc0654523ae47ef3f8f7930b65344a88a24946ff2c739249"
+hash = "cfa5adacea3e86d4d474fdedce522b9f45e5f152ac85e29b535d6b27bbe18ab2"
 metafile = true
 
 [[files]]
@@ -1815,11 +1810,6 @@ metafile = true
 [[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "7644998742bc7d7d5272e4393fb62aeb40c3784c611015e93810a103a767af47"
-metafile = true
-
-[[files]]
-file = "mods/fixmyspawnr.pw.toml"
-hash = "d66c10befae29687d0a99d083402e02ac0250811c182cb406b69c9e563ddb233"
 metafile = true
 
 [[files]]
@@ -1903,23 +1893,8 @@ hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
-file = "mods/illuminations-forge.pw.toml"
-hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "950d11bc633e05198af4da50a5281f41fda511910f168c72a3f41dbb0768a804"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering-forge.pw.toml"
-hash = "ee23051e2319385f19dc8b0b936143aeaa48fc17e5bfebd0c4cc77e81ded76de"
 metafile = true
 
 [[files]]
@@ -2013,18 +1988,8 @@ hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
-file = "mods/memorysweep.pw.toml"
-hash = "382afe7376d9e0c049395f8ef52abdc0f8004213aa88036d7a124cf6453c71dc"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "9c7225d4ff130e2372e5fb8dd8a6f2c51dd63411b351782c3b43a27c0ea5b863"
 metafile = true
 
 [[files]]
@@ -2080,16 +2045,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-exoticism.pw.toml"
 hash = "9a961cd5033f25bb75709a7f58023f207467ad38af6ecc2e3783b390c7e22508"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
-metafile = true
-
-[[files]]
-file = "mods/nock-enough-arrows.pw.toml"
-hash = "41a286c3a7b15241924c18dcab21c41afe2275035ac67f34c7f3a9a3b1490995"
 metafile = true
 
 [[files]]
@@ -2315,11 +2270,6 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
 metafile = true
 
 [[files]]

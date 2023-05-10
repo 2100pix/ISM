@@ -3,9 +3,11 @@ filename = "nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/o5sw4k4txhcsr0a/nocube%27s_farmers_compats_1.0.0_Forge_1.19.2.jar?dl=1"
+hash-format = "sha1"
+hash = "771538109b412e8e6c2260707d0dd19c17c3485d"
+mode = "metadata:curseforge"
 
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "3614540977b11838cddb66eb0a9f73b9c54de6d249e5e99e165c29af496f9e61"
+[update]
+[update.curseforge]
+file-id = 4278163
+project-id = 782900
