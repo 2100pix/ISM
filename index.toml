@@ -2331,6 +2331,11 @@ hash = "d47839ee6cfda7e3bc11168d11d763ae1f81d8392cf7e4ef4839ef5b0c981984"
 metafile = true
 
 [[files]]
+file = "mods/watchdog-anti-cheat.pw.toml"
+hash = "4a68a4b1251d851e9dba215c2a0cfec7c76f6ba6c83dc48d826a09a3c88d6a4c"
+metafile = true
+
+[[files]]
 file = "mods/wild-bushes.pw.toml"
 hash = "7a35dd4a562380b3e78e88f60afc3f28981eeceb0e3ab931c66cb38031988160"
 metafile = true
