@@ -205,7 +205,7 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 108
+  width = 149
   action = deep_customization_element:title_screen_branding
   actionid = 36de45bf-2db3-4f5f-918e-14d999bf4b8d1682605507576
   y = 282
@@ -293,7 +293,7 @@ customization {
   orientation = mid-left
   restartbackgroundanimations = true
   delayappearanceseconds = 0.5
-  buttonaction = joinserver;play.invious.my.id%btnaction_splitter_fm%
+  buttonaction = joinserver;139.180.217.91%btnaction_splitter_fm%
   label = Invious Survival Modded
   loopbackgroundanimations = true
   fadein = true
