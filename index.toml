@@ -1767,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-compats.pw.toml"
-hash = "589c3a4ec60121050ce6c3793189a2b35b4c5b70aa66f858a13be996ae768b8d"
+hash = "fddce9222a31ffb65aac389a1e32840b47a50464a1010ecd287002227eaabd7d"
 metafile = true
 
 [[files]]
