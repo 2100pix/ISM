@@ -1841,11 +1841,6 @@ hash = "7644998742bc7d7d5272e4393fb62aeb40c3784c611015e93810a103a767af47"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ebb3572b3c17848491cabbc3faef8e1533a7e93cc18493605fa86c0a2cc52e8f"
-metafile = true
-
-[[files]]
 file = "mods/forgetmechunk-forge.pw.toml"
 hash = "b6d7e76e6897813edcfbb295f605cccd5b34adc4fe9d608dd7906f9088296fe0"
 metafile = true
