@@ -1,13 +1,11 @@
 name = "Adorn (Forge)"
-filename = "Adorn-4.2.0+1.19.4-forge.jar"
+filename = "Adorn-3.8.3+1.19.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "93f65113ed4a4dbea96d5e8e049b757df1d76a92"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/1ycgakskcn3exkm/Adorn-3.8.3%2B1.19.2-forge.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4526347
-project-id = 438784
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "08d69c699684a415668ee099e79538899447b3983363351b22cf3c4dba3f376e"

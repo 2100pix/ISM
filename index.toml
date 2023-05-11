@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn-for-forge.pw.toml"
-hash = "6920ca13b205b63074afd14a06af46a4cc001d3ac12905b1a17ce6a50f6e057b"
+hash = "39bfe6350af60d4a4a0bffc126a9cf218f61d9e06a703bae4572f1a8631edc22"
 metafile = true
 
 [[files]]
