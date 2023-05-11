@@ -1,0 +1,31 @@
+
+["Server Config for Watchdog AntiCheat!"]
+	#test
+	#This allows to enable or disable the whole anticheat.
+	"Enable AntiCheat" = true
+	#test
+	#You can enable or disable this option if you want the mod anticheat to be checking for cheaters.
+	"Enable Mod Whitelist" = true
+	#You can enable or disable this option if you want the texturepack anticheat to be checking for cheaters.
+	"Enable TexturePack Whitelist" = true
+	#Paste the list from the generated-mods-list.txt from the client into this value.
+	"Whitelisted Mods" = "115FCBF8DC0C7B8993824EE39FA228AD-minecraft,A2A17B1C3C0BBB9F77422A1151404243-watchdog,87574F2EBC8EFB8D4B9D3D8AD08C5E4A-forge"
+	#Paste the list from the generated-texturepacks-list.txt from the client into this value.
+	"Whitelisted TexturePacks" = ""
+	#This allows for a player to bypass the anticheat.
+	"Whitelisted Player Names" = "FireIsH0t,TestUser"
+	#Add your own discord link here to display the link when a player gets kicked.
+	"Discord Link" = "https://discord.gg/VNgHahNC2S"
+	#Add your own discord webhook link here to send messages when a player gets kicked.
+	"Discord Webhook Link" = ""
+	#Add your own kick message. Color Guide: https://wiki.ess3.net/mc/ (Use /n for newlines)
+	"Kick Message" = "&cYou have been kicked.\n\n&9You have things that this server does not support! Please remove them before connecting again.\n\nIf you have any questions please contact us on our discord &chttps://discord.gg/VNgHahNC2S"
+	#Checks if the player's gamma value in the options.txt file has been modified.
+	"Gamma Checker" = false
+	#Set the MAX value that the player's gamma value could be.
+	"Max Gamma Value" = 1.0
+	#Checks if a player is (left or right) clicking too fast.
+	"Auto Click Checker" = false
+	#Set the MAX value that a player can click PER second (left or right).
+	"Max Auto Click Value" = 10
+

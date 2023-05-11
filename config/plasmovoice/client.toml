@@ -5,6 +5,10 @@ check_for_updates = false
 key_bindings = []
 
 
+[addons.pv-addon-soundphysics]
+"gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
+"gui.plasmovoice.soundphysics.enabled" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = true
 
 [voice]
 disabled = false
@@ -22,7 +26,11 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
+[voice.volumes.broadcast]
+volume = 1.0
 [voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.whisper]
 volume = 1.0
 
 [advanced]
@@ -47,4 +55,6 @@ overlay_position = "TOP_LEFT"
 overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
+broadcast = "OFF"
 proximity = "OFF"
+whisper = "OFF"
