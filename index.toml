@@ -1386,6 +1386,11 @@ hash = "799a68af763eaffd51771cb3bab81e9f1cfd5f333b0b36f04522ba1bc30fed2d"
 metafile = true
 
 [[files]]
+file = "mods/adorn-for-forge.pw.toml"
+hash = "6920ca13b205b63074afd14a06af46a4cc001d3ac12905b1a17ce6a50f6e057b"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
@@ -1448,6 +1453,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "9ac73457e348d75590d02c8801a2f1b322e8a057909c97bee585567bd288af8e"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a33f941fc49859480dad693cbd215a74c222b9c180fceba293de960bbe31dbc9"
 metafile = true
 
 [[files]]
@@ -1721,6 +1736,11 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/enlightend.pw.toml"
+hash = "547553341c2606a106aaf57543967e978df3bba387a7dee2372df352d9e4e39c"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
@@ -1821,6 +1841,11 @@ hash = "7644998742bc7d7d5272e4393fb62aeb40c3784c611015e93810a103a767af47"
 metafile = true
 
 [[files]]
+file = "mods/fix-experience-bug.pw.toml"
+hash = "ebb3572b3c17848491cabbc3faef8e1533a7e93cc18493605fa86c0a2cc52e8f"
+metafile = true
+
+[[files]]
 file = "mods/forgetmechunk-forge.pw.toml"
 hash = "b6d7e76e6897813edcfbb295f605cccd5b34adc4fe9d608dd7906f9088296fe0"
 metafile = true
@@ -1911,6 +1936,11 @@ hash = "b74024263562cb534499952b3d83dbdc229e9adf655315d941f5a1e4c5951c85"
 metafile = true
 
 [[files]]
+file = "mods/incubation.pw.toml"
+hash = "40f6796953e860ac1db1cc45a9efd3d9b707a5dadeac9071bf270e2433a7e629"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
 metafile = true
@@ -1957,7 +1987,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
@@ -1983,6 +2013,16 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
+metafile = true
+
+[[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "b8ff7e11c90fd636aff73843a3c88322e1a2ee7b6a58c1edb00e3e7ca8d411a6"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-progressive-difficulty.pw.toml"
+hash = "7d45d120485ee93f88e7943ef8c963051682c16c32d2ba2b4701994426e95d68"
 metafile = true
 
 [[files]]
@@ -2131,6 +2171,11 @@ hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
+metafile = true
+
+[[files]]
 file = "mods/pyromancer.pw.toml"
 hash = "0c6a9ec86c54ad531b0a71bc5cdeeac2219b7c7dd4a7cdf709d37df0c1611d00"
 metafile = true
@@ -2148,6 +2193,11 @@ metafile = true
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
+file = "mods/random-village-names.pw.toml"
+hash = "66f006d6e96a91ce9aadca680dcdc5a29a190918a1142de4772e514d0b93f689"
 metafile = true
 
 [[files]]
