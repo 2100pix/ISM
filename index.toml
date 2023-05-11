@@ -1616,6 +1616,11 @@ hash = "da846a1996aa33210b2e000a0571b0608c04144b60775a4b8e72c009d95d2e28"
 metafile = true
 
 [[files]]
+file = "mods/connectedness.pw.toml"
+hash = "4304b63b8ccd8ae34ad528f63d9c6b54c6e7cadacbd3326ed3cd7bb1d5213595"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -1683,6 +1688,11 @@ metafile = true
 [[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
 hash = "4da0e051253b1ca6cf6703093110c4aa05178f3beefd7867b915428abab18abc"
+metafile = true
+
+[[files]]
+file = "mods/dimension-stages.pw.toml"
+hash = "6986377257eb654d017e532c8cc3afa2afb187c94d0e08f0e69047581cf37967"
 metafile = true
 
 [[files]]
@@ -1873,6 +1883,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "f2f347366b136eec0278baa68557247a4e5c793867daa31e7810ae7bc26921aa"
+metafile = true
+
+[[files]]
+file = "mods/game-stages.pw.toml"
+hash = "0e520e0110faa5b2c240a154021e060226275ab0cf8748493a4c85d1545a4adc"
 metafile = true
 
 [[files]]
@@ -2198,6 +2213,11 @@ metafile = true
 [[files]]
 file = "mods/rare-ice.pw.toml"
 hash = "5cf333001f8a758bd8d1e93ae661bdae88eba821d5ba7f488554b54984e5ad8f"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "dd102ab1298ca331c3b6226bf45f23e37a3a690a4d98b959fa1a2aa6488cb43a"
 metafile = true
 
 [[files]]
