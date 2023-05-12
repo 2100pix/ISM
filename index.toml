@@ -1907,6 +1907,11 @@ hash = "7644998742bc7d7d5272e4393fb62aeb40c3784c611015e93810a103a767af47"
 metafile = true
 
 [[files]]
+file = "mods/fixmyspawnr.pw.toml"
+hash = "d66c10befae29687d0a99d083402e02ac0250811c182cb406b69c9e563ddb233"
+metafile = true
+
+[[files]]
 file = "mods/forgetmechunk-forge.pw.toml"
 hash = "b6d7e76e6897813edcfbb295f605cccd5b34adc4fe9d608dd7906f9088296fe0"
 metafile = true
@@ -2064,6 +2069,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
 metafile = true
 
 [[files]]
@@ -2229,6 +2239,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
 metafile = true
 
 [[files]]
