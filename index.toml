@@ -165,11 +165,6 @@ hash = "b389edd571808fdb504d24c1fa53112a8d761389fdbe385729779692efe88342"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "cadc1f715b32eb5973deda1c5b88ad71221ead426da8f26107162ace1751ba8e"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "867af37737f246e4336e93c437ab7d3f2dc07074f2677c216de029aba17f11ba"
 metafile = true
@@ -566,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "270799a277b74e9a0bc8e9f8af658889286a9ab12bfe87bf8837ef041cf07618"
+hash = "b36fbd3126a8b5f63422804b052eb3f41d48099c3661925e1e8f0943a5225390"
 metafile = true
 
 [[files]]

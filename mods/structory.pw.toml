@@ -3,11 +3,9 @@ filename = "Structory_1.19.4_v1.3.1a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "692b68e19213784763c2642b272c2735ea1dc60b"
-mode = "metadata:curseforge"
+url = "https://www.dropbox.com/s/kbsnrm3rwsgzka0/Structory_1.19.4_v1.3.1a.jar?dl=1"
 
-[update]
-[update.curseforge]
-file-id = 4441634
-project-id = 636540
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6c0410e7d8574eba2e1a26eeff8fb55b1daa69f77d5bbddddf2f8217f0efbea0"
