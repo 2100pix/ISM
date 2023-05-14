@@ -299,11 +299,6 @@ hash = "ec13103bdcf496494c342be20c5449804e6f7bbc196d5f68125684bb1fba662e"
 metafile = true
 
 [[files]]
-file = "mods/effective-forge.pw.toml"
-hash = "5f0a314fe6cf3ade2193f54bfe2af317afcd7ff68bdd6ea8d397018479a88b13"
-metafile = true
-
-[[files]]
 file = "mods/elenai-dodge-2.pw.toml"
 hash = "4bf04633709d8f1942e404aea1b4ffb59abef3cc5c369e964f85513dd401e0a8"
 metafile = true
