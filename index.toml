@@ -535,6 +535,11 @@ hash = "4b0f79d8e6742d87a92610e6c6a4fe9aa2a4d9b594ae98b429433f06ba6bfc70"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "f6cce1695b00274c3bf8ec514c1ecbbafa796ec791d34088acec7e77a3229ddc"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "74f1a127a631878382224bf017afe356d4fc2553487eff7e113cc558860e46f6"
 metafile = true
