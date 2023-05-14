@@ -1,0 +1,13 @@
+name = "Valhelsia Structures"
+filename = "valhelsia_structures-forge-1.19.4-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "401d3d5a274dfc63925a0db1322f737f7d09ba77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4479199
+project-id = 347488

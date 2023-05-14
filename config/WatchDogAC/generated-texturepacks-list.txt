@@ -1,2 +1,0 @@
-COPY THIS ENTIRE LIST AND PASTE IT IN Whitelisted TexturePacks OPTION IN THE watchdog-anticheat-server Config :
-A2A17B1C3C0BBB9F77422A1151404243-Quark Programmer Art.zip

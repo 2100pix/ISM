@@ -1,13 +1,13 @@
 name = "Caelus API (Forge)"
-filename = "caelus-forge-1.19.2-3.0.0.6.jar"
+filename = "caelus-forge-1.19.4-3.0.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bd9d920381a8e539c27492b3ebb77863fe3dd064"
+hash = "198e9c863ab1ab460c50a0d6f0711f045599c58b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3929284
+file-id = 4442066
 project-id = 308989

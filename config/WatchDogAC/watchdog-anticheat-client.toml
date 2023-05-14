@@ -1,5 +1,0 @@
-
-["Client Config for Watchdog AntiCheat!"]
-	#This allows for the MD5's to be generated for the mod's and texture pack's whitelist files!
-	"Debug Client" = true
-

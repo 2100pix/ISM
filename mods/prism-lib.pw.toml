@@ -1,13 +1,13 @@
 name = "Prism [Forge]"
-filename = "Prism-1.19.1-1.0.2.jar"
+filename = "Prism-1.19.3-forge-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "082c48f00604c2d3c282fd69fbdae5cf594878d4"
+hash = "71ee6651d0b1c52f14aae934d5ab0402aac871d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3993293
+file-id = 4238759
 project-id = 638111

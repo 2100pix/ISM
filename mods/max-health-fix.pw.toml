@@ -1,13 +1,13 @@
 name = "Max Health Fix"
-filename = "MaxHealthFix-Forge-1.19.2-8.0.1.jar"
+filename = "MaxHealthFix-Forge-1.19.4-10.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4946f5b8f0b0d842d5c2cc100354c82ef5ce3e87"
+hash = "4472f4f2ae9dbe1fad44f25262cfa1e7c11584b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3943055
+file-id = 4447240
 project-id = 492246

@@ -1,13 +1,13 @@
 name = "YUNG's Better Nether Fortresses (Forge)"
-filename = "YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar"
+filename = "YungsBetterNetherFortresses-1.19.4-Forge-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cc8afeae94e42fdaa19786ee974a09ccb650dc9"
+hash = "ee0f98ee04b3443cc2b899f571fa7ebbc5e19284"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4426795
+file-id = 4454284
 project-id = 817651

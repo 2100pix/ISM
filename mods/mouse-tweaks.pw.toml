@@ -1,13 +1,13 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-forge-mc1.19-2.23.jar"
+filename = "MouseTweaks-forge-mc1.19.4-2.24.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9d6e76a331c0598edb6293dc658af2d1672864b4"
+hash = "09476b5eb00c3609e7898a8b35ce4c96fd6e1808"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3871353
+file-id = 4440208
 project-id = 60089
