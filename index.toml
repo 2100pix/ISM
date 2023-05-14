@@ -489,11 +489,6 @@ hash = "6ab270a9d2263c3ac10459c1cad0a35f424e7629b1fe760440024441d2584e6c"
 metafile = true
 
 [[files]]
-file = "mods/project-mmo.pw.toml"
-hash = "37f942e6a536fc99256a3bec74a1aa169a7be9a2326ee4114874a0cefc3ba2b4"
-metafile = true
-
-[[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
