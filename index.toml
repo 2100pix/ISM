@@ -565,6 +565,11 @@ hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "270799a277b74e9a0bc8e9f8af658889286a9ab12bfe87bf8837ef041cf07618"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "ce075b86497af5c6c94f31ea797ead2e8832413b83a8ef0ad03d19fa6f46b65e"
 metafile = true
