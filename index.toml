@@ -1,24 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/InventoryHUD/curios.json"
-hash = "a14da619a968f4f842157c26c8049809c15d8fd031d7f3975a86eb206328cbdc"
-
-[[files]]
 file = "config/defaultoptions-common.toml"
 hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "3206d81922db277777377f19554d127a400d703e7e1ff81e51944371803c8b3a"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "a60a050dc5131ccef50cafb4c90d8923d3dcc8b7c39be9fd270454957257d30d"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "c1d38e88dd4aea450c334108486f51b5558625793931ad830b61d0833a205e30"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
