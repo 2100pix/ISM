@@ -534,11 +534,6 @@ hash = "c9d2aa7b9ec24ef9878a7db15bf85ff30ac826f8c33d4b0324735ff477ee5390"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "8fe5cc9ed359433350074d239a6d127a9c5bdc73680e5f530b2671a379276f18"
 metafile = true
