@@ -129,6 +129,11 @@ hash = "5777d6a12a17429908fadedfdddd7409921f456172953657cb66e2e5004f5e11"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "184dc2f2bc58de1c2824bbba409157a5499ce8b7567b9dc000bac11494653dda"
+metafile = true
+
+[[files]]
 file = "mods/ageing-spawners.pw.toml"
 hash = "407a6e713f67fe435df227c00bbdeed8e9feb192e1199c7edc4e0c4a1505082a"
 metafile = true
@@ -361,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "30932e9a291b431b48dbb62e8ead51be3143537048932a6a0f955c26df9e0547"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "1f3fc9cc7c3c1fea70c7ff41deda1c29ddbe69773de4bf7029f1412b26ce76f3"
 metafile = true
 
 [[files]]
