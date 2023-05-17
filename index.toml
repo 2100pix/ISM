@@ -564,11 +564,6 @@ hash = "ce075b86497af5c6c94f31ea797ead2e8832413b83a8ef0ad03d19fa6f46b65e"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "2cf7c5836dd57de3239b3daba012537b0cdcd853edd655d30c84743b70fd8544"
-metafile = true
-
-[[files]]
 file = "mods/texels-paintings.pw.toml"
 hash = "c910ca6ed6873226c245d7691a5a982c799c1ee52c0ec80477d1e1be78e6a212"
 metafile = true
