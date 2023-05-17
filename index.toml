@@ -129,11 +129,6 @@ hash = "5777d6a12a17429908fadedfdddd7409921f456172953657cb66e2e5004f5e11"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "184dc2f2bc58de1c2824bbba409157a5499ce8b7567b9dc000bac11494653dda"
-metafile = true
-
-[[files]]
 file = "mods/ageing-spawners.pw.toml"
 hash = "407a6e713f67fe435df227c00bbdeed8e9feb192e1199c7edc4e0c4a1505082a"
 metafile = true
@@ -311,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "393328323bcab0ce30f4c5b5a9d3e6879e861c0d4669f8bddda5ea90a721e848"
-metafile = true
-
-[[files]]
-file = "mods/equipment-compare.pw.toml"
-hash = "f6219027f11352570ea0abf904c90ac8998a35d85abbd28d2d4f6112c0fe0635"
 metafile = true
 
 [[files]]
