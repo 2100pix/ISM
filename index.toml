@@ -229,11 +229,6 @@ hash = "a425d481b626c29d079a726d9315a59d1e05f8f83648911997eeafefe9b74de8"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "67ea76b7805095ce846fec64819d20f1a63dfc5dd0261edd9040db1d99052ec4"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "5d5cbad9669268dce6f64c8a2ae1406a90e9c79d05f37180616bf0c81e157193"
 metafile = true
