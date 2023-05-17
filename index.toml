@@ -319,6 +319,11 @@ hash = "2fc2f553973a8eda41ecbb4bf46d24783b6cb036049f47deafed648102712c61"
 metafile = true
 
 [[files]]
+file = "mods/fantasys-furniture.pw.toml"
+hash = "44775815b6a0c6a600957687daaa362840afb00bcf1ba9a2dcaafc433723fcc2"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "0643940163b02903a960130dd593821b5dc46a3f8ee2881ebef508ed25cd6b78"
 metafile = true
@@ -419,6 +424,11 @@ hash = "24a0496745daa4e60c5b259bd3960fb0d24a6bc1b0dfe89c859a9a21df894ae1"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-wine.pw.toml"
+hash = "3ff8139d99bec2a43633094110b735bf101901606b3f36cf98ca1fa9e0741e82"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "45a29e376ab9c3962b033663a65c4075ab92c55b0dab51bbae1525706f6f934f"
 metafile = true
@@ -431,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "f88d71fa4c694ae6fa8b8b68224969e6a587fb3cbaef5d742f893ff6798c1cb1"
 metafile = true
 
 [[files]]
@@ -519,6 +534,11 @@ hash = "c9d2aa7b9ec24ef9878a7db15bf85ff30ac826f8c33d4b0324735ff477ee5390"
 metafile = true
 
 [[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "ec0f5aba9705b8a2148499762691787ccb3a57d98d741a9e21fb5394a0ae2e42"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7036572e6aaf0971dc9918a6f32ca7f8209e569c067776fbda15ee6d036e20f1"
 metafile = true
@@ -536,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "ce075b86497af5c6c94f31ea797ead2e8832413b83a8ef0ad03d19fa6f46b65e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "2cf7c5836dd57de3239b3daba012537b0cdcd853edd655d30c84743b70fd8544"
 metafile = true
 
 [[files]]
@@ -561,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "0fe43086c6d8c777248cc13f6b4dc6e0ef1d3bf10b422223a1fe5674221f999e"
+metafile = true
+
+[[files]]
+file = "mods/variety-aquatic.pw.toml"
+hash = "caba7432b85aeeecf5b317df9a69edd09c8cefb1b172fbe5dfcda2df2cc9dfa9"
 metafile = true
 
 [[files]]
