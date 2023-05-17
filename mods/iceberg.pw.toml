@@ -1,11 +1,13 @@
 name = "Iceberg [Forge]"
-filename = "Iceberg-1.19.4-forge-1.1.9.jar"
+filename = "Iceberg-1.19.4-forge-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/zlu2bmjnpx6r7om/Iceberg-1.19.4-forge-1.1.9.jar?dl=1"
+hash-format = "sha1"
+hash = "a27299748c44189cc9da634d3cc935c59b24e009"
+mode = "metadata:curseforge"
 
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "7396bf5a13318b0627dbda77adfffaa5274592b1ed2cb282ac481e6474b0600b"
+[update]
+[update.curseforge]
+file-id = 4484740
+project-id = 520110
