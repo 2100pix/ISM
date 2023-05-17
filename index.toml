@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "b389edd571808fdb504d24c1fa53112a8d761389fdbe385729779692efe88342"
+hash = "088018505ff0acc297fc60ccaa81b398d055050066a0ea9bcf9cd2d18d8ba952"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "0a6577070c3b326b1abd52d3c1fe9dc8c9e8565e25aebd9aeafd88fa99c4026f"
+hash = "5f466d8710422eb9ebfa04b7849f98bbe02c67df4691c7a0bb41f017af2cbfcc"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "7791466537628642836a4f71811252ccb2b5ce99cd1e7a390a1da02e20aeb7df"
+hash = "67ea76b7805095ce846fec64819d20f1a63dfc5dd0261edd9040db1d99052ec4"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "3c4b7ddd7f6ee6300ac6f54ea159fb7194a953d05a5eed4b72290635f85935f0"
+hash = "6ee5520a21a591d91b2f04c3f4b919a6485d472e631a8bfcc7db87d8d60e96a3"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "780b7d62640b066bf4641612c0009f475fe6fe141b9a1f05f79dcda353ba7169"
+hash = "2fc2f553973a8eda41ecbb4bf46d24783b6cb036049f47deafed648102712c61"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "dabd18f85d36ddefe1d00dc75ca77b48197aa32f69930f8e896fec082aa8993f"
+hash = "ae938cd8a70c854830229137e8e6fc59d40a6fc3dfa925eb2ab9fe9eee3d2217"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "e1bb20a5e0d50eed87381db1707d66eb607cdce8628715a53c9b58c3bf10abb4"
+hash = "1f3fc9cc7c3c1fea70c7ff41deda1c29ddbe69773de4bf7029f1412b26ce76f3"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "995001c62839729e9d50904a0cb38b880d77e3100ab12ef989c67c9cfa969689"
+hash = "d3b506efe20ff4abcff3612b3cceef73e4c30dfc0c08c440747aefc1e6f246e3"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "ba60d99f62ec624072f4996d1df7c542cba4b2a055bdf8ba16401471ec95c55c"
+hash = "892218748b4d9df414670e75a436560fd1bf7ae4c0706460cdce14badcde5f8b"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "f6cce1695b00274c3bf8ec514c1ecbbafa796ec791d34088acec7e77a3229ddc"
+hash = "9737563531351374ae2080e92f343aa012da43dfda033d4100f7e1e944c05f03"
 metafile = true
 
 [[files]]
@@ -550,12 +550,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "8fe5cc9ed359433350074d239a6d127a9c5bdc73680e5f530b2671a379276f18"
+hash = "7036572e6aaf0971dc9918a6f32ca7f8209e569c067776fbda15ee6d036e20f1"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+hash = "6c6bb1ec06e6a79bcc1c81af842faee68c0d8c39a3eb2147ed11d8cd2ce24e19"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3ca384615ee242932b0998b7c553cd5567aa41d4df86f4137b41a8703617374f"
+hash = "13fb93d56a0759ac74e84db1305f5d8d4360d1a13106c1961406221ae172bf97"
 metafile = true
 
 [[files]]
