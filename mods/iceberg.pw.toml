@@ -3,7 +3,7 @@ filename = "Iceberg-1.19.4-forge-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/zlu2bmjnpx6r7om/Iceberg-1.19.4-forge-1.1.9.jar?dl=0"
+url = "https://www.dropbox.com/s/zlu2bmjnpx6r7om/Iceberg-1.19.4-forge-1.1.9.jar?dl=1"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
