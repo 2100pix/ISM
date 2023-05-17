@@ -364,11 +364,6 @@ hash = "30932e9a291b431b48dbb62e8ead51be3143537048932a6a0f955c26df9e0547"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
-hash = "1f3fc9cc7c3c1fea70c7ff41deda1c29ddbe69773de4bf7029f1412b26ce76f3"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "1077af43e8e7a558be274fd992dbeb4ab2abf73e1b2d7ff5cfd346049b7a2a46"
 metafile = true
