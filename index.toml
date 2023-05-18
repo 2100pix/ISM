@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/invs-collectible-ii.pw.toml"
-hash = "62589de762e26feb3d08f55f6e227caf6ce1cfea57848bf8db00bfca5efcffc7"
+hash = "280d13f4367594f2d35038f1649266b745baf1afb0c12dbf907d779c337daf72"
 metafile = true
 
 [[files]]
@@ -586,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "45948f3a77bbe4bbe635ca70d920b97431b12fe1133994ee678f7f6ff78b658b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
 
 [[files]]

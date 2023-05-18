@@ -1,11 +1,11 @@
 name = "INVS Collectibles"
-filename = "beta-invious_collectible_ii_1.0.5.jar"
+filename = "beta-invious_collectible_ii_1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/qztjisi77bylv9e/beta-invious_collectible_ii_1.0.5.jar?dl=1"
+url = "https://www.dropbox.com/s/o7cvgro8wzqyb9f/beta-invious_collectible_ii_1.0.7.jar?dl=1"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "47c2beb53e4a747a80fe51027a77c69c260d9c96b7d5acbe3282faed7a66112b"
+hash = "30c2aa16fbd06182dbd5b048d80064a60ecf6377a00205d088e4ebe7de59a213"
