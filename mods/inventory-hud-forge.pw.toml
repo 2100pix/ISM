@@ -1,13 +1,13 @@
 name = "Inventory HUD+"
-filename = "invhud.forge.1.19.4-3.4.9.jar"
+filename = "invhud.forge.1.19.4-3.4.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3c7a9ac6db0d246a90b1443eb840a377b28eb0cf"
+hash = "d34a52f8b2472523e784d3fc07337d505c58e22f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4447516
+file-id = 4505144
 project-id = 357540

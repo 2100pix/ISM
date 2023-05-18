@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "088018505ff0acc297fc60ccaa81b398d055050066a0ea9bcf9cd2d18d8ba952"
+hash = "b389edd571808fdb504d24c1fa53112a8d761389fdbe385729779692efe88342"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "6ee5520a21a591d91b2f04c3f4b919a6485d472e631a8bfcc7db87d8d60e96a3"
+hash = "3c4b7ddd7f6ee6300ac6f54ea159fb7194a953d05a5eed4b72290635f85935f0"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "2fc2f553973a8eda41ecbb4bf46d24783b6cb036049f47deafed648102712c61"
+hash = "780b7d62640b066bf4641612c0009f475fe6fe141b9a1f05f79dcda353ba7169"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "d3b506efe20ff4abcff3612b3cceef73e4c30dfc0c08c440747aefc1e6f246e3"
+hash = "995001c62839729e9d50904a0cb38b880d77e3100ab12ef989c67c9cfa969689"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "83f1f1ac1b98e50c55e4265f68bd470559d136ea45f020bb1ecfc5996488be5f"
+hash = "8214c81b5d72d67753c6c9feccc2884a45b5d46e1a88c16cc3d31203ed9acca7"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "6c6bb1ec06e6a79bcc1c81af842faee68c0d8c39a3eb2147ed11d8cd2ce24e19"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
