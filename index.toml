@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0a25a60b27e9e6fb60358280cbec29fe2687f3ea7a076fd19c7c380cc64b9cc0"
+hash = "32b378a2225c2b238b2849e0020a0bdd7fb64dcc919957b0b3ec7273511c6122"
 metafile = true
 
 [[files]]
@@ -551,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "ce075b86497af5c6c94f31ea797ead2e8832413b83a8ef0ad03d19fa6f46b65e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "0e89d1d42d905560090a2a18fd2893851ad111c9c0285a4f77dd62fbb75dbfc2"
 metafile = true
 
 [[files]]
