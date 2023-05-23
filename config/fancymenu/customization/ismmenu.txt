@@ -205,11 +205,11 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 149
+  width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 36de45bf-2db3-4f5f-918e-14d999bf4b8d1682605507576
-  y = 282
-  height = 50
+  y = 292
+  height = 40
 }
 
 customization {

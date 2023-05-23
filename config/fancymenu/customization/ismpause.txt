@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_disconnect_button
+  buttonaction = quitgame%btnaction_splitter_fm%
+  x = 0
+  width = 205
+  action = addbutton
+  actionid = d4f5f972-c929-416d-a632-49c1330983891684300949831
+  y = 1
+  label = Quit Game
+  height = 20
+}
+
