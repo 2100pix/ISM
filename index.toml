@@ -74,7 +74,7 @@ hash = "8bc26e06f8452c74b4ab54fb40fd52bc99025b9346ed5a4c7340395a2ecda5d1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f3d88c8751029b40c7dc56b53dad4f9fff9c699ba057800b679e74a4bde04538"
+hash = "d6c1d096603901261b4f8f889b6292c3ba302bca78c2bd29eb84622697ef75dd"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -82,7 +82,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "f8344c3748ea424939da3bf0f9119ce3b8b9e0a7a21eed8bfb16f36b9444a2b7"
+hash = "f97b74244eff19e755216e454919ae5feea5f254d07d2af2e8f15941aa177866"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -499,6 +499,11 @@ hash = "29db9502c3c9fd2d33f01d4bde23bf75eb9c2df01263497044b62b0c744f4946"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "5f5b49d50f55c765fe3ef1320a6121f174dc8d6927b2e7f9dbb5ef2742b13cf5"
+metafile = true
+
+[[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "927a9f6fdb6520d71379f53203c419cf46e78ea6c5a412c0acde15a78200d7fb"
 metafile = true
@@ -511,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "353537d792fa6f351924fc6d04d8c80f24f273dc5e6bc634ef88e1cc435a5632"
+metafile = true
+
+[[files]]
+file = "mods/premium-wood.pw.toml"
+hash = "8c3fedbef346d6894082cf9ef86d1f715ad17a37f206731a4722f3fd8faae6af"
 metafile = true
 
 [[files]]

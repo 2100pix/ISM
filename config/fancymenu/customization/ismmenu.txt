@@ -293,7 +293,7 @@ customization {
   orientation = mid-left
   restartbackgroundanimations = true
   delayappearanceseconds = 0.5
-  buttonaction = joinserver;139.180.217.91%btnaction_splitter_fm%
+  buttonaction = joinserver;149.28.137.132%btnaction_splitter_fm%
   label = Invious Survival Modded
   loopbackgroundanimations = true
   fadein = true
