@@ -73,8 +73,12 @@ file = "config/fancymenu/custom_locals/mojang.png"
 hash = "8bc26e06f8452c74b4ab54fb40fd52bc99025b9346ed5a4c7340395a2ecda5d1"
 
 [[files]]
+file = "config/fancymenu/custom_locals/newsimage.png"
+hash = "871ed5254cb9860ce9d8be3d5f834b5d5fd818775e23cd46560b86a5c0985e09"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "d6c1d096603901261b4f8f889b6292c3ba302bca78c2bd29eb84622697ef75dd"
+hash = "e830422b350ec5e6415a4ca8fe9c748366950a0cde5ed2306fa9f37c7b18a967"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -82,7 +86,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "f97b74244eff19e755216e454919ae5feea5f254d07d2af2e8f15941aa177866"
+hash = "1329b4296da1f93ce111c8e94e1dde14cd3d6042319611913a8b5726cb6f6b01"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -616,11 +620,6 @@ metafile = true
 [[files]]
 file = "mods/variety-aquatic.pw.toml"
 hash = "caba7432b85aeeecf5b317df9a69edd09c8cefb1b172fbe5dfcda2df2cc9dfa9"
-metafile = true
-
-[[files]]
-file = "mods/villager-names.pw.toml"
-hash = "45948f3a77bbe4bbe635ca70d920b97431b12fe1133994ee678f7f6ff78b658b"
 metafile = true
 
 [[files]]

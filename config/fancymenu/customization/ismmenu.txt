@@ -266,7 +266,7 @@ customization {
   width = 266
   action = addshape
   actionid = bf112c0a-2db0-4551-a69a-05f00ac161241682670497582
-  y = -116
+  y = -113
   height = 231
 }
 
@@ -362,28 +362,18 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
+  source = https://raw.githubusercontent.com/2100pix/ISM-News-board/main/news_content.txt
   text_border = 0
   case_mode = normal
   source_mode = web
-  line_spacing = 1
-  x = 25
-  width = 244
+  line_spacing = 3
+  x = 31
+  width = 235
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = ee28e7ff-2aba-4909-92be-2aa716ce837b1682685018212
   y = 7
   alignment = left
   height = 99
-}
-
-customization {
-  orientation = mid-centered
-  x = 25
-  width = 244
-  action = addwebtexture
-  actionid = 5c038b19-9742-4188-8132-2815e649fd831682685340475
-  y = -94
-  url = https://github.com/2100pix/ISM/blob/edd2ce95e9e3592bd2ea8fdaaf1d8980f195952a/news/news_image.png
-  height = 97
 }
 
 customization {
@@ -396,11 +386,11 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 342
+  x = 337
   width = 77
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 8f421c1c-2f81-4c85-99ee-38bb59ed4ab71682778546989
-  y = 52
+  y = 51
   alignment = left
   height = 21
 }
@@ -434,5 +424,27 @@ customization {
   y = 152
   parrot = false
   delayappearanceeverytime = false
+}
+
+customization {
+  path = config/fancymenu/custom_locals/newsimage.png
+  orientation = top-left
+  x = 351
+  width = 237
+  action = addtexture
+  actionid = 2d424645-9b1b-4302-aa6c-8fcf76e3ec9b1685284500665
+  y = 70
+  height = 100
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 32b74c7e-c26d-4566-81c6-08452d46048d1685285462279
+  y = 13
+  height = 100
 }
 
