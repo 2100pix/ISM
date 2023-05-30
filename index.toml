@@ -508,6 +508,11 @@ hash = "5f5b49d50f55c765fe3ef1320a6121f174dc8d6927b2e7f9dbb5ef2742b13cf5"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "f5be21a7ac216e181f302cc725c1071895e87f576f198f6a704ad61729493d8b"
+metafile = true
+
+[[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "927a9f6fdb6520d71379f53203c419cf46e78ea6c5a412c0acde15a78200d7fb"
 metafile = true
