@@ -23,13 +23,13 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_disconnect_button
-  buttonaction = quitgame%btnaction_splitter_fm%
+  buttonaction = mimicbutton;net.minecraft.client.gui.screens.PauseScreen:button_compatibility_id:mc_pausescreen_disconnect_button%btnaction_splitter_fm%opengui;net.minecraft.class_442%btnaction_splitter_fm%reloadmenu%btnaction_splitter_fm%
   x = 0
   width = 205
   action = addbutton
-  actionid = d4f5f972-c929-416d-a632-49c1330983891684300949831
-  y = 1
-  label = Quit Game
+  actionid = 76bb432a-4699-4b56-b8df-a1e10d6359601685462616293
+  y = 2
+  label = Disconnect
   height = 20
 }
 

@@ -78,7 +78,7 @@ hash = "871ed5254cb9860ce9d8be3d5f834b5d5fd818775e23cd46560b86a5c0985e09"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "e830422b350ec5e6415a4ca8fe9c748366950a0cde5ed2306fa9f37c7b18a967"
+hash = "0cde10da39fbf45d4ce601c9c6e79ecff72fc5d5b93262caeb7f7be0c9577637"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -86,7 +86,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "1329b4296da1f93ce111c8e94e1dde14cd3d6042319611913a8b5726cb6f6b01"
+hash = "2fe4a36630e639f22d657f20cc847cdb84c3609a30ad7ea492b0b552febaae4a"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -94,7 +94,7 @@ hash = "54e9664a51eb7db3e6a568691d0c7aa0d63ade36d33d2842670de0b071b8e234"
 
 [[files]]
 file = "config/fancymenu/customization/ismpause.txt"
-hash = "3c7207991a0f5dd5a39609b2adaec760ec8d46eb36d09ca81147f859feedf87b"
+hash = "846edd2d3ee28813acc3704bef68ea028d80671b2eafdde2dfcffbe418d7cb4d"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -138,7 +138,7 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
 file = "config/openloader/resources/InviousServer.zip"
-hash = "7567aad2f15d9fcf83baaf942a18efb3b18819ffdaf0369e0452178a8a4adf92"
+hash = "62deac171df3e4f8f31fc13ea9af3c1dbaff6bd45bf568bcf8e1bf6555976091"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
