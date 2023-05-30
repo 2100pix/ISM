@@ -133,6 +133,14 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/resources/InviousServer.zip"
+hash = "7567aad2f15d9fcf83baaf942a18efb3b18819ffdaf0369e0452178a8a4adf92"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "eff98b3917b5f0601b04aa35fa230c0b59dff68663bdf8fc71096c06cbe0338f"
 metafile = true
