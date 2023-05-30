@@ -137,7 +137,7 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/resources/InviousServer.zip"
+file = "config/openloader/resources/InviousRP.zip"
 hash = "62deac171df3e4f8f31fc13ea9af3c1dbaff6bd45bf568bcf8e1bf6555976091"
 
 [[files]]
