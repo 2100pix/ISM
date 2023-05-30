@@ -137,8 +137,92 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/resources/InviousRP.zip"
-hash = "62deac171df3e4f8f31fc13ea9af3c1dbaff6bd45bf568bcf8e1bf6555976091"
+file = "config/openloader/resources/Invious RP/assets/minecraft/font/default.json"
+hash = "ea105a4a40adfe8d07e119183910683d31c3f2ca1b6a83ccc0096ddbd3583108"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/font/negative_spaces.ttf"
+hash = "e673cd1c10f20c7b8c01c8f00615cb8c2133a5d3d59da17365ebb16020dbafb9"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/font/safei.ttf"
+hash = "7d38e5aa01a11de33caf1b09591cb9e38fe7c6c5950712b225d7503d9bca41b2"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/invssound/sounds.json"
+hash = "c6e2ed4efa51b84729ac38bd9c35fb76d1b1c50fd7d0dea1955df17d4aa9fd2e"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/shaders/core/rendertype_text.vsh"
+hash = "51e3a222d1c75ae4f2afdfae78961fbe15cabae468ed7d48c1cfd824fd531246"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds.json"
+hash = "1803ad70eb1965383cd5a88349a60cfb39ccd2e30a50bce436027a5884420e89"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/adzan/normal.ogg"
+hash = "56b7a2f870eace087860ba3221e1ec940bf2662c34bca15a7549fe93b60b0312"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/adzan/path/normal.ogg"
+hash = "56b7a2f870eace087860ba3221e1ec940bf2662c34bca15a7549fe93b60b0312"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/adzan/path/subuh.ogg"
+hash = "f67f0afa1d084fcd7bbf4a06fbe0c589f4674ddbbb9eaac0dd20209778c711b6"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/adzan/subuh.ogg"
+hash = "f67f0afa1d084fcd7bbf4a06fbe0c589f4674ddbbb9eaac0dd20209778c711b6"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/normal.ogg"
+hash = "56b7a2f870eace087860ba3221e1ec940bf2662c34bca15a7549fe93b60b0312"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/sounds/subuh.ogg"
+hash = "f67f0afa1d084fcd7bbf4a06fbe0c589f4674ddbbb9eaac0dd20209778c711b6"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/admin.png"
+hash = "72c01837657632828defc1fddce41681d555857fca131d96d113a72b474f4a92"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/adventure_player.png"
+hash = "28dd787fa9cd919e7d88f7ac0c795c1d6383bbb9a397253142a78d6aca91d34a"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/celestia_admin.png"
+hash = "939930e04ef58b11d58f4567b69b7812bb2dd568448ee733944e052a10cb6eb7"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/dev.png"
+hash = "906385652282783716adcc857665c12c4a8d3ca9c07ac4b9acf56c5fb86a5516"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/heroes_donatur.png"
+hash = "66217593a3d34a197eb2a16ecf95fdcc8b978303b40dc79331c061ce2ffb76bc"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/invious_player_khusus.png"
+hash = "30aeb8238d0cf2682ad11a452334f988ed69277b1371a05be7ea2045a8277fbd"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/king_owner_town.png"
+hash = "50c88a6e0f575faff5c03d5666527fc853dc95e9fd70e69adf0b6a081833a21f"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/mod.png"
+hash = "dc6d54d57884fd849c422e16a834369996775886624d3a46d7678a8865b15cc8"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/assets/minecraft/textures/font/player.png"
+hash = "69aa8a46237bb69410db96ddbea6065986a89d1484016065f80d07c55e087bd3"
+
+[[files]]
+file = "config/openloader/resources/Invious RP/pack.mcmeta"
+hash = "e5b46d22c0ad47cbc72e88d20fe04db310451bc4749a72419654ab92627d8efa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

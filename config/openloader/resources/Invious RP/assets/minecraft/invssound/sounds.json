@@ -1,0 +1,18 @@
+{
+  "invious.sound.adzansubuh": {
+    "sounds": [
+      "adzan/path/subuh",
+      "volume": 0.6,
+      "stream": true,
+      "preload": true
+    ]
+  },
+  "invious.sound.adzan": {
+    "sounds": [
+      "adzan/path/normal",
+      "volume": 0.6,
+      "stream": true,
+      "preload": true
+    ]
+  }
+}

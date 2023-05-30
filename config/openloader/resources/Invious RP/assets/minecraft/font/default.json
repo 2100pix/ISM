@@ -1,0 +1,56 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/celestia_admin.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/heroes_donatur.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/invious_player_khusus.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/adventure_player.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/king_owner_town.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEff5"
+            ]
+        }
+    ]
+}
