@@ -770,6 +770,11 @@ hash = "caba7432b85aeeecf5b317df9a69edd09c8cefb1b172fbe5dfcda2df2cc9dfa9"
 metafile = true
 
 [[files]]
+file = "mods/visuality-reforged.pw.toml"
+hash = "f4be787e0eee6643a2e660ff768de255a4351c048c58e8cc00ac3dff5b1fab64"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
