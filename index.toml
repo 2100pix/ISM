@@ -583,11 +583,6 @@ hash = "ba60d99f62ec624072f4996d1df7c542cba4b2a055bdf8ba16401471ec95c55c"
 metafile = true
 
 [[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "8daa311756b00a0e8b3016d020185b324ca033635b558f54678a474aa77b749c"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f223c15d885b073b946cc458f4476727f8a992ae3c83368c6c6a4554e8485d64"
 metafile = true
@@ -675,11 +670,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "c9d2aa7b9ec24ef9878a7db15bf85ff30ac826f8c33d4b0324735ff477ee5390"
-metafile = true
-
-[[files]]
-file = "mods/shields.pw.toml"
-hash = "137e3b82098ddbdb0f3ac57e56498415c192d767829ac96b5a91056caba06c11"
 metafile = true
 
 [[files]]
