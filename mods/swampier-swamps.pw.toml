@@ -1,0 +1,13 @@
+name = "Swampier Swamps (Forge)"
+filename = "swampier_swamps-1.19.4-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40e4a64f119d1688b43a4f117a266fbba73557ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4463780
+project-id = 632591

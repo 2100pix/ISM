@@ -1,0 +1,13 @@
+name = "Kambrik"
+filename = "Kambrik-6.0.0-beta.2+1.19.4-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "747fa6d9d0a0e353e587feb313305498af940969"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465356
+project-id = 455585

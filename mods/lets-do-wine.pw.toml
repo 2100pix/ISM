@@ -1,13 +1,13 @@
 name = "[Vinery] Let's do Wine!"
-filename = "vinery-1.2.6-forge.jar"
+filename = "vinery-forge-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "079c168c466237aca4a9f7c7739067e7985c9705"
+hash = "ef078c5cefe6f2fcbd6c92eca9728e2bdb78013a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4519720
+file-id = 4546140
 project-id = 704465

@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-forge-1.19.4-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b468912acafbc1cb482cb8dc0c1e73b4a7929f9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4496718
+project-id = 459701
