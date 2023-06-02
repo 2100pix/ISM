@@ -1,6 +1,6 @@
 name = "ISM Modpack"
 author = "Seintive"
-version = "1.0.0"
+version = "2.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "1eee1399b92e385663363e0fdb9462f95ca13497f019460ac22fae8f43505940"
 
 [versions]
-forge = "45.0.43"
+forge = "45.0.64"
 minecraft = "1.19.4"
