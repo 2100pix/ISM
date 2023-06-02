@@ -5,22 +5,6 @@ file = "config/craftpresence.json"
 hash = "5eee6f7b10f3790f4cac3cad880798cdd287c056308fe5b2627627624bbd3d54"
 
 [[files]]
-file = "config/defaultoptions-common.toml"
-hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "6fc76a5bfb3096c1d30193122751c169482cc47bab38cbc6fc3a845065cf345c"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "74fa39c361308c81001941a2f49bfe64f917172c1076399a8545b51973ace92f"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "735d9a9afe106db70a0dfbba6757a60fbc43efeb8707c0d9b578b2d451364e39"
-
-[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "b9a9956e2ad94100a2150b4467f144aae5311766761cbab67733896d7f29e92a"
 
@@ -77,8 +61,12 @@ file = "config/fancymenu/custom_locals/newsimage.png"
 hash = "871ed5254cb9860ce9d8be3d5f834b5d5fd818775e23cd46560b86a5c0985e09"
 
 [[files]]
+file = "config/fancymenu/custom_locals/saweria_logo_23px.png"
+hash = "36f81b15392e5c22f5002ccbd991ac5f686ff54421a91199c60106677d7f0b74"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "0cde10da39fbf45d4ce601c9c6e79ecff72fc5d5b93262caeb7f7be0c9577637"
+hash = "d23cbd781b83a0b77271f6c0aa4a5f07ca65121433fd5d6d7e58b7821990d4f1"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -86,7 +74,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "2fe4a36630e639f22d657f20cc847cdb84c3609a30ad7ea492b0b552febaae4a"
+hash = "e5ee79b134dfba45941b3202e5eb5c260816ccdb79a5f914f46bf041da582756"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -397,11 +385,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "8ef565bae35c4adbf6a22c2f14f8e11fb364aef54cc04382ad8959c092fc5e81"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "16577e35cd30a18c3773388d8038fc5b389055edf1a5f59c28d9d21f9b3b6e9a"
 metafile = true
 
 [[files]]
