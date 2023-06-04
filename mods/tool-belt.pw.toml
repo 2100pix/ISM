@@ -1,0 +1,11 @@
+name = "Tool Belt"
+filename = "ToolBelt-1.19.4-1.20.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/yjtfbi80q72mlq7/ToolBelt-1.19.4-1.20.0.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "73f6021149317d70c131c29dd566b1559297053ef8fcb3a0edc94fb5b8d8ce96"

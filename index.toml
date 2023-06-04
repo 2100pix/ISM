@@ -718,6 +718,11 @@ hash = "68f40c6735809599a8fddb931ac96f475ae8d40b9e6ecacc4f95124c96116d44"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "0a21f07af4768bd88cbbc4abeafeece11922497f2846e51510fb72a1772fa4b7"
+metafile = true
+
+[[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "ba0b2c85f3ae7ed23aa350adee15818fe3269529002e1dec90990ed657b34563"
 metafile = true
@@ -745,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
 hash = "f4be787e0eee6643a2e660ff768de255a4351c048c58e8cc00ac3dff5b1fab64"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "f141e4c2e061e1784cdb0b275f28a2f249b2d4a549d6b1bff675a022263d5210"
 metafile = true
 
 [[files]]

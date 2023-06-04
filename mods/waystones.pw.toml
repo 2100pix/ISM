@@ -1,0 +1,11 @@
+name = "Waystones"
+filename = "waystones-forge-1.19.4-13.1.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/y0k1ig40ibeq6fa/waystones-forge-1.19.4-13.1.0.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0d01884bca20040c683b1dcd3892096256837a197339ae1304ff96a2550b6ac4"
