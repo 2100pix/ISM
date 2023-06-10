@@ -66,7 +66,7 @@ hash = "36f81b15392e5c22f5002ccbd991ac5f686ff54421a91199c60106677d7f0b74"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "d23cbd781b83a0b77271f6c0aa4a5f07ca65121433fd5d6d7e58b7821990d4f1"
+hash = "64558e31189246e24989c70d6b0964de119eed7201511cedc72f49a1db21ca49"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -74,7 +74,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "e5ee79b134dfba45941b3202e5eb5c260816ccdb79a5f914f46bf041da582756"
+hash = "77de928f3ec3e003f63391986040297d8cad428714deafb5b139533bf440ae59"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
-hash = "9a8b17cfb954567d83f14e64aba0e6b3d9130c6bb13e10e0177765c2d590fbb7"
+hash = "b31d1b06eb63b909d8280f7a952448baf990076b491acd647eeb9151aa967455"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "0a6577070c3b326b1abd52d3c1fe9dc8c9e8565e25aebd9aeafd88fa99c4026f"
+hash = "999f24c4f2cbb7a89e84f4b8cddba03d2ffcab9c73f14655cad8ce8e91a3e695"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f9a22405ffab5c57168f4d8f57d2d6f46095c97c3e762f1b7cf24a77571d7db0"
+hash = "3bdef1e49750fd372cd573fb6114e517723894c46b752100ea7cda856cce4f64"
 metafile = true
 
 [[files]]
@@ -374,12 +374,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "e344ca4e1baae3cd88a3d5ea34a3bf0a755252ede7e80eec7e222e2463a2e3a3"
+hash = "3b43d0f2029b19940b8c09e371c53148b109969b796c20559dd67b8b7f48dbee"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ccad7921112831134e2f677b2164248b07abe59c8ae921e48c841d0176e29cad"
+hash = "8aba7eb0d05b08595fd272278f808a5c767147c68c6d9458c79d7d99c7bd6017"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "5e169d6bd31080a8adc5c91d52fa7c5f88ce85575903ed28acfa29211653ddd5"
+hash = "6607d3beb5876a66c71244c4e881a95b1d54dc4e272ce13c78be6896d55d1d4f"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "20c6d293626d9e645fe0999701cfe4ecc8f7d28b41bbd912ca8ae07ff416c75f"
+hash = "d4cb81544cd5c949b71a264f55144688e10de1757c55272d4a578cbefd5d4649"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c12e86298eed17e8a61fbd2ba8df19511e2c4164614f3a3d7a68d05147cd1f56"
+hash = "9dd464164f06671cd241541f28892f0a13a4c6cf5643d4d4165e3c5fb3845b35"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "30932e9a291b431b48dbb62e8ead51be3143537048932a6a0f955c26df9e0547"
+hash = "63c45c336691b128d4c7121cbc33e118109063153922233708acd27c7310ed68"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8214c81b5d72d67753c6c9feccc2884a45b5d46e1a88c16cc3d31203ed9acca7"
+hash = "8684fbe2d9b60dbcef910c4e0f20317e3c1f2e1d4fddfec28e6bbebe1452a5e7"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "e8171928289298a40d7a8773ec57ff8596a5894c736737d2204cceb55cbda035"
+hash = "0953a36b9387b73142b272a3d6043777e9d0b50f8f512b0fb1c513bfa36d5742"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "c9d2aa7b9ec24ef9878a7db15bf85ff30ac826f8c33d4b0324735ff477ee5390"
+hash = "d28cc0634681b4f5cd000398e7d49a1b44dc8cf5ca250c1189304682d829072b"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b121befe5685b66878ef19a22ec67853408b4d99b9043ce2cdc2a59647469305"
+hash = "84c246279e7383facfdcd3633bc3b09ed746937c206bb3eab52e93c4cc7c2fbb"
 metafile = true
 
 [[files]]
