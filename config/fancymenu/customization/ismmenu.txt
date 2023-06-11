@@ -463,13 +463,13 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/custom_locals/saweria_logo_23px.png
+  path = config/fancymenu/custom_locals/saweria_logo.png
   orientation = mid-left
   x = 76
   width = 18
   action = addtexture
-  actionid = 966e01cd-05b2-41e3-a150-de4b296554121685676216355
-  y = 18
-  height = 18
+  actionid = 3285ff3a-f34b-4d5d-b0f5-880987d9701e1686451923141
+  y = 19
+  height = 16
 }
 

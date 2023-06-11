@@ -61,12 +61,16 @@ file = "config/fancymenu/custom_locals/newsimage.png"
 hash = "871ed5254cb9860ce9d8be3d5f834b5d5fd818775e23cd46560b86a5c0985e09"
 
 [[files]]
+file = "config/fancymenu/custom_locals/saweria_logo.png"
+hash = "d7426b61a9413ab99faf841fcd4bfe97de9875f3b0b7110595b88b9bd006ccb0"
+
+[[files]]
 file = "config/fancymenu/custom_locals/saweria_logo_23px.png"
 hash = "36f81b15392e5c22f5002ccbd991ac5f686ff54421a91199c60106677d7f0b74"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "64558e31189246e24989c70d6b0964de119eed7201511cedc72f49a1db21ca49"
+hash = "51e25c0363ce4fb2e33043c3a8c2f11d8ccbdebc4a2c951625799e8caae41374"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -74,7 +78,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "77de928f3ec3e003f63391986040297d8cad428714deafb5b139533bf440ae59"
+hash = "8b8dbcfe18d11ef892bbf9492934774fdf684eed58f54dbcc0e4501ed3a95509"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
@@ -670,11 +674,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d28cc0634681b4f5cd000398e7d49a1b44dc8cf5ca250c1189304682d829072b"
-metafile = true
-
-[[files]]
-file = "mods/skinned-lanterns.pw.toml"
-hash = "b796ec412f649335e2d0b8b1dcf55fab22721208e8a571ea1ac2e2ce5b1f758b"
 metafile = true
 
 [[files]]
