@@ -402,11 +402,6 @@ hash = "8ef565bae35c4adbf6a22c2f14f8e11fb364aef54cc04382ad8959c092fc5e81"
 metafile = true
 
 [[files]]
-file = "mods/cyclic.pw.toml"
-hash = "3530c3a05602458f7974a6b7eced852e7663d4816b7df51e8bfc8cf2546dda81"
-metafile = true
-
-[[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
 hash = "c69890be88c1517daf96ef2e686c5fe5f41adfe54b82372c88b099fdf89c745d"
 metafile = true
