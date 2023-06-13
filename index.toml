@@ -572,11 +572,6 @@ hash = "9f156735e83eaab4b7b3449a0483bf99dd82f422efc6ea68cb032fee587a3313"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "eaf57ccd95a533e23be3a3205f6eb0f3fcefb41f69ef77a18da340b7e2750df6"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "8eee4aa33f15003a3ac9fd1d2a3fa899dc25ca485b7e7e1407ffdc60d4e51748"
 metafile = true
@@ -659,11 +654,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "f5be21a7ac216e181f302cc725c1071895e87f576f198f6a704ad61729493d8b"
-metafile = true
-
-[[files]]
-file = "mods/passable-foliage.pw.toml"
-hash = "c717412af327716165e69091b3c048a2a2cffa87b3893eae3cda0f37b43f48d6"
 metafile = true
 
 [[files]]
