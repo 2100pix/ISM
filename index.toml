@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/invs-collectible.pw.toml"
-hash = "ed197caef9e20bafc9856d13074db8e92b13de8b9434b44ca95ff678088fed12"
+hash = "9c12383128dc4c888fe0fb05af96bf9d3bec6517b28f644ddd48b909c9e67059"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "631eea81cf719b8e7d5889856120d62c629549def1e83480160341559fa8638a"
+hash = "5a63314e4213e6ffe8e8032d33f7dc927791234122ed88a24691f47e5d5698e8"
 metafile = true
 
 [[files]]
