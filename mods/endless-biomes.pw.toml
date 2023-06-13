@@ -1,0 +1,13 @@
+name = "Endless Biomes"
+filename = "EndlessBiomes 1.4s - 1.19.4 (Server-friendly).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12dd0aab31e28486dff0714aceff24c54a8683f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4537663
+project-id = 667688

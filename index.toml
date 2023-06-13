@@ -272,6 +272,11 @@ hash = "a127532c9e6708ef47ef431a2ae2f2a009b7c7bbf8331c6c6ecea37b32867df6"
 metafile = true
 
 [[files]]
+file = "mods/autovws-burger-mod.pw.toml"
+hash = "fe961266278b616dd24ce3b586a842be961111590d2e73f09e06e28fd9850853"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
 hash = "fde89f6bda7f653a4e5134fb7cb18ab9e7c7e4b2f5ec1c32f4ebfc0281925738"
 metafile = true
@@ -387,8 +392,18 @@ hash = "8aba7eb0d05b08595fd272278f808a5c767147c68c6d9458c79d7d99c7bd6017"
 metafile = true
 
 [[files]]
+file = "mods/culinary-construct.pw.toml"
+hash = "9bed66c4e6b6bb18a7ef88b5d48291c6da523c5b7b6a9582cffe61112af88f08"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "8ef565bae35c4adbf6a22c2f14f8e11fb364aef54cc04382ad8959c092fc5e81"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+hash = "3530c3a05602458f7974a6b7eced852e7663d4816b7df51e8bfc8cf2546dda81"
 metafile = true
 
 [[files]]
@@ -427,6 +442,11 @@ hash = "6607d3beb5876a66c71244c4e881a95b1d54dc4e272ce13c78be6896d55d1d4f"
 metafile = true
 
 [[files]]
+file = "mods/endless-biomes.pw.toml"
+hash = "46c6527d6d786fb95c9fd7be38a7ded277077ff8f26bc397357c0dae9dab1c7d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "393328323bcab0ce30f4c5b5a9d3e6879e861c0d4669f8bddda5ea90a721e848"
 metafile = true
@@ -434,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "d4cb81544cd5c949b71a264f55144688e10de1757c55272d4a578cbefd5d4649"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "305d3a7081699935bc7a89f664dcb335f4fb7e9626d21042a5116d68d5dba67f"
 metafile = true
 
 [[files]]
@@ -552,6 +577,11 @@ hash = "24a0496745daa4e60c5b259bd3960fb0d24a6bc1b0dfe89c859a9a21df894ae1"
 metafile = true
 
 [[files]]
+file = "mods/l_ender-s-cataclysm.pw.toml"
+hash = "eb31da833332f273b8723814b162ec009f8a09195a7f5e2b99b36c1dcf8054e0"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-wine.pw.toml"
 hash = "3d18cc8c7c1a63151445c805153d1915177d733e7eb94ed020d72fc191ff389f"
 metafile = true
@@ -594,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "3649f87557a0549920ede5e1df4be567cb2f2b6da212d34f8fddcf210d22e791"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "631eea81cf719b8e7d5889856120d62c629549def1e83480160341559fa8638a"
 metafile = true
 
 [[files]]
@@ -647,6 +682,11 @@ hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "1f17dfa522e6ed23b47a9a125967f5e03a70b9f1dfa60d212b3fcf12de2f2699"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "95cc47fe15b67827eaab01e89d8c716d985ac1a5d6b24a4258f0e1e6b465fd76"
 metafile = true
@@ -654,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "4cc0774c87b4e94960d0ca03f53770b83d61556d0378d572da5bc04518f618e2"
+metafile = true
+
+[[files]]
+file = "mods/sapience.pw.toml"
+hash = "d8b714369a7737cff305bc077af101a51585071170bdedf13f8d1fbd61d1c5b1"
 metafile = true
 
 [[files]]
@@ -674,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d28cc0634681b4f5cd000398e7d49a1b44dc8cf5ca250c1189304682d829072b"
+metafile = true
+
+[[files]]
+file = "mods/skinned-lanterns.pw.toml"
+hash = "b796ec412f649335e2d0b8b1dcf55fab22721208e8a571ea1ac2e2ce5b1f758b"
 metafile = true
 
 [[files]]
@@ -707,6 +757,11 @@ hash = "a072673cb2af7c0984ec837bf1fec241015751fc4ad4aea2a2b7c82473bce68c"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "9573b7c6c35cf0b8f76074c8625e3138c1654627a0149d7d2bd524d4752036ff"
+metafile = true
+
+[[files]]
 file = "mods/texels-paintings.pw.toml"
 hash = "c910ca6ed6873226c245d7691a5a982c799c1ee52c0ec80477d1e1be78e6a212"
 metafile = true
@@ -729,6 +784,21 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "6435a72cb72bba9fe4e73e0ece9c8a52a00a90c94b188e7d4dbe993ec37744f5"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.pw.toml"
+hash = "3d0daaa5bae341b8828d17d2148f48184a0f91fe52f8146d9d20ed6400be5ef5"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-items.pw.toml"
+hash = "1e9499d3ceba9a39966a912ee659ae008a89aec161608f6e49be49e5b3118088"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite.pw.toml"
+hash = "1aa117abf210814f5e94ebe506ec595b2dcf2da6f2c96a2f6b3f1bd3f8592be4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm"
+filename = "L_Enders_Cataclysm-0.84-1.19.4-Hurt-Fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a22fe2ce324f0fc255ae673cf14ea2c7c3228f98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4531203
+project-id = 551586

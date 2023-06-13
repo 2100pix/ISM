@@ -1,0 +1,13 @@
+name = "Upgraded Netherite : Items"
+filename = "upgradednetherite_items-1.19.4-4.3.0.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3ced4dcc4569b5d228541667124e8044ad58cee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4506716
+project-id = 566866
