@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "5eee6f7b10f3790f4cac3cad880798cdd287c056308fe5b2627627624bbd3d54"
+hash = "f2ef15250094b81afbb4660471c85921a8463696c4c42631c856b365a5602c08"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"

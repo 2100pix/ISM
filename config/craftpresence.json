@@ -1,18 +1,19 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_schemaVersion": 3,
+  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
+  "_schemaVersion": 5,
   "_lastMCVersionId": 762,
   "generalSettings": {
     "detectATLauncherInstance": false,
-    "detectCurseManifest": true,
-    "detectMultiMCManifest": true,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": false,
     "detectTechnicPack": false,
     "detectBiomeData": false,
     "detectDimensionData": false,
-    "detectWorldData": false,
+    "detectWorldData": true,
     "clientId": "450485984333660181",
-    "defaultIcon": "139.180.217.91",
+    "defaultIcon": "invs",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
@@ -72,7 +73,7 @@
     }
   },
   "serverSettings": {
-    "fallbackServerIcon": "default",
+    "fallbackServerIcon": "invs2",
     "fallbackServerName": "Invious Survival Modded",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
@@ -96,24 +97,72 @@
             }
           }
         }
+      },
+      "rpginvious.serveminecraft.net": {
+        "textOverride": "{server.motd.raw}",
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "invs2",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "51.79.154.27": {
+        "textOverride": "{server.motd.raw}",
+        "iconOverride": "invs2",
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on Invious Survival Modded",
+          "gameState": "Playing on Invious Survival Modded",
+          "largeImageKey": "invs2",
+          "largeImageText": "aaa",
+          "smallImageKey": "",
+          "smallImageText": "aaaa",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
       }
     }
   },
   "statusMessages": {
     "mainMenuData": {
       "textOverride": "In the Main Menu",
+      "iconOverride": "invs2",
       "data": {
         "enabled": true,
         "useAsMain": false,
         "details": "",
         "gameState": "",
-        "largeImageKey": "{pack.icon}",
+        "largeImageKey": "invs2",
         "largeImageText": "",
         "smallImageKey": "",
         "smallImageText": "",
         "startTimestamp": "",
         "endTimestamp": "",
         "buttons": {
+          "button_1": {
+            "label": "Join",
+            "url": "https://discord.gg/invsvsl"
+          },
           "default": {
             "label": "Example Text",
             "url": "https://google.com"
@@ -170,7 +219,7 @@
         "useAsMain": false,
         "details": "",
         "gameState": "",
-        "largeImageKey": "{pack.icon}",
+        "largeImageKey": "invs2",
         "largeImageText": "",
         "smallImageKey": "",
         "smallImageText": "",
@@ -280,12 +329,61 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}"
   },
   "accessibilitySettings": {
-    "tooltipBackgroundColor": "0xF0100010",
-    "tooltipBorderColor": "0x505000FF",
-    "guiBackgroundColor": "minecraft:textures/gui/options_background.png",
-    "buttonBackgroundColor": "minecraft:textures/gui/widgets.png",
+    "tooltipBackground": {
+      "start": {
+        "red": 16,
+        "green": 0,
+        "blue": 16,
+        "alpha": 240
+      }
+    },
+    "tooltipBorder": {
+      "start": {
+        "red": 80,
+        "green": 0,
+        "blue": 255,
+        "alpha": 80
+      },
+      "end": {
+        "red": 40,
+        "green": 0,
+        "blue": 127,
+        "alpha": 80
+      }
+    },
+    "guiBackground": {
+      "start": {
+        "red": 64,
+        "green": 64,
+        "blue": 64,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/options_background.png"
+    },
+    "worldGuiBackground": {
+      "start": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 192
+      },
+      "end": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 208
+      }
+    },
+    "buttonBackground": {
+      "start": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/widgets.png"
+    },
     "languageId": "en_us",
-    "showBackgroundAsDark": true,
     "stripTranslationColors": false,
     "showLoggingInChat": false,
     "stripExtraGuiElements": false,
@@ -297,13 +395,17 @@
       "useAsMain": false,
       "details": "{getFirst(menu.message, dimension.message)}",
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
-      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageKey": "invs2",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
-      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageKey": "{getFirst(player.icon)}",
+      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(player.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
+        "button_1": {
+          "label": "Join Server",
+          "url": "https://discord.gg/invsvsl"
+        },
         "default": {
           "label": "Example Text",
           "url": "https://google.com"
@@ -313,7 +415,10 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "64xenn": "https://mc-heads.net/avatar/4a807e2c0d75411699c42649b1358803",
-      "139.180.217.91": "https://api.mcsrvstat.us/icon/139.180.217.91"
+      "139.180.217.91": "https://api.mcsrvstat.us/icon/139.180.217.91",
+      "invs": "https://media.discordapp.net/attachments/1081954236457287711/1118806743783325909/pp_1.png?width=491&height=491",
+      "invs2": "https://i.ibb.co/p3YKpBb/pp-1.png",
+      "51.79.154.27": "https://api.mcsrvstat.us/icon/51.79.154.27"
     },
     "dynamicVariables": {
       "default": "Example Text",
