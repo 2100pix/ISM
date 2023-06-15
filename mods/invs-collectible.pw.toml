@@ -3,9 +3,9 @@ filename = "invs_collectible_rpg_1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/cacg3uiy8jy5zye/invs_collectible_rpg_1.1.5.jar?dl=1"
+url = "https://www.dropbox.com/s/nbhynegsiwu8e16/invs_collectible_rpg_1.1.6.jar?dl=1"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "89b6025583aa67880e8403326b9c8f18da6d34b3bd439c8f592835f48abed8b5"
+hash = "8a2dce8409c44db817c0069d5e876234572e27dac679c9ef450fe8e1dec2675d"
