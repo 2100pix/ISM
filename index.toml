@@ -277,11 +277,6 @@ hash = "a127532c9e6708ef47ef431a2ae2f2a009b7c7bbf8331c6c6ecea37b32867df6"
 metafile = true
 
 [[files]]
-file = "mods/autovws-burger-mod.pw.toml"
-hash = "fe961266278b616dd24ce3b586a842be961111590d2e73f09e06e28fd9850853"
-metafile = true
-
-[[files]]
 file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
 hash = "fde89f6bda7f653a4e5134fb7cb18ab9e7c7e4b2f5ec1c32f4ebfc0281925738"
 metafile = true
