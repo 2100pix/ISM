@@ -507,6 +507,11 @@ hash = "b13a07572eeced2e7813045126217aba3e54b53c750e1daa2660d659e7ee589b"
 metafile = true
 
 [[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "99628eb751042789ee158e89cff2c5c0bf85f27cb95f624fdc1035f87199d30c"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "1c8dff03442cf3fc58806182c2d7059aad2799d248075e14c35504cfab784421"
 metafile = true
@@ -524,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dabd18f85d36ddefe1d00dc75ca77b48197aa32f69930f8e896fec082aa8993f"
+metafile = true
+
+[[files]]
+file = "mods/glow-ink-plus.pw.toml"
+hash = "287aca55dac4dde96e82fa844d6b7128af8db27a4940e6b12d6d49422a52c285"
 metafile = true
 
 [[files]]
@@ -722,6 +732,11 @@ hash = "d28cc0634681b4f5cd000398e7d49a1b44dc8cf5ca250c1189304682d829072b"
 metafile = true
 
 [[files]]
+file = "mods/shields.pw.toml"
+hash = "137e3b82098ddbdb0f3ac57e56498415c192d767829ac96b5a91056caba06c11"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8227c9de73aa8214f448d30d3851887a60553774c8c9a71d36a4e75833751e15"
 metafile = true
@@ -819,11 +834,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "0fe43086c6d8c777248cc13f6b4dc6e0ef1d3bf10b422223a1fe5674221f999e"
-metafile = true
-
-[[files]]
-file = "mods/variety-aquatic.pw.toml"
-hash = "caba7432b85aeeecf5b317df9a69edd09c8cefb1b172fbe5dfcda2df2cc9dfa9"
 metafile = true
 
 [[files]]

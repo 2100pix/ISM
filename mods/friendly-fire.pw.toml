@@ -1,0 +1,13 @@
+name = "Friendly Fire"
+filename = "FriendlyFire-Forge-1.19.4-16.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3cec5f50a0ca3e3668a9cb6906bfd97e68a1cc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4469384
+project-id = 255105

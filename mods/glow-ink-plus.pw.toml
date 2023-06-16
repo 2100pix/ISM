@@ -1,0 +1,13 @@
+name = "Glow Ink Plus"
+filename = "(Forge)GlowInkPlus-1.19.4-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f2b87ba057ae57de8ea55393e063540b0bc6253"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4444561
+project-id = 651887
