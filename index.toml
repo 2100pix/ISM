@@ -727,11 +727,6 @@ hash = "d28cc0634681b4f5cd000398e7d49a1b44dc8cf5ca250c1189304682d829072b"
 metafile = true
 
 [[files]]
-file = "mods/shields.pw.toml"
-hash = "137e3b82098ddbdb0f3ac57e56498415c192d767829ac96b5a91056caba06c11"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8227c9de73aa8214f448d30d3851887a60553774c8c9a71d36a4e75833751e15"
 metafile = true
