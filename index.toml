@@ -347,11 +347,6 @@ hash = "a425d481b626c29d079a726d9315a59d1e05f8f83648911997eeafefe9b74de8"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "5474ef5e9d1fb987fccdc86a3086213bcf6ecb327d70a782abed1c3b22b87554"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "1fedc4caef39608afcb344a20f3e5be2f42d598d1a875093b00900c649470744"
 metafile = true
