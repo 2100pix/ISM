@@ -501,11 +501,6 @@ hash = "44775815b6a0c6a600957687daaa362840afb00bcf1ba9a2dcaafc433723fcc2"
 metafile = true
 
 [[files]]
-file = "mods/farmers-deligh.pw.toml"
-hash = "c804f788280e12c056820badb7990f32f13fbf1f5e28e9725ad44ecd78115084"
-metafile = true
-
-[[files]]
 file = "mods/farsight.pw.toml"
 hash = "0643940163b02903a960130dd593821b5dc46a3f8ee2881ebef508ed25cd6b78"
 metafile = true
