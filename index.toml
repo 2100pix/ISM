@@ -125,6 +125,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/inventoryhud-client.toml"
+hash = "688a34eb07d76552732769dc66445038affadb86e732d0f9edf4472b2090ad11"
+
+[[files]]
 file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
@@ -333,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover-forge.pw.toml"
-hash = "ccbf4861d2256bf419ada24c57c3f217ec93f2a499319ca722a33174060ac40a"
+hash = "28e182bfaeae701833eb65a3ff2d3bccae1f8d5b3f7c8ed846ddc95b7424c997"
 metafile = true
 
 [[files]]
@@ -383,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3bdef1e49750fd372cd573fb6114e517723894c46b752100ea7cda856cce4f64"
+hash = "7acc6c952386f172cdc5722c2bc6a3f3c505543f4e3b25503b113cdf9b1e2945"
 metafile = true
 
 [[files]]
@@ -403,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "3b43d0f2029b19940b8c09e371c53148b109969b796c20559dd67b8b7f48dbee"
+hash = "888fd8e07368a920c72eb7115c1781bc8823b8f5e304e16b0dbb064a793787a6"
 metafile = true
 
 [[files]]
@@ -433,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "3c4b7ddd7f6ee6300ac6f54ea159fb7194a953d05a5eed4b72290635f85935f0"
+hash = "a8f3195e2f8611be3732f5e7f11967c5b5cdc6adebb357c2f4aa5477e007cc61"
 metafile = true
 
 [[files]]
@@ -453,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft-forge.pw.toml"
-hash = "790c293bf2cf00dcf3edd8fc08a015dc948469129ab4b1fca3e9bbc952b6b28d"
+hash = "dfb44e4468db600ce9c60045fadde8c21546cb0fd9ae88dafd29c587d2cfd056"
 metafile = true
 
 [[files]]
@@ -468,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/endremastered.pw.toml"
-hash = "24edcf3f14c9e96abdc723a4755dc644cdde7eeba99fe7d2777ab61d2aef1a01"
+hash = "5b17a1feac862d8f2eca3e565815201e3f439ad300f02705a7806b8dff73a558"
 metafile = true
 
 [[files]]
@@ -533,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "1c8dff03442cf3fc58806182c2d7059aad2799d248075e14c35504cfab784421"
+hash = "b4714f1eaa703a6781e5476b8ea39021ca46a08e3c9b7fe96a1db7728fd48be0"
 metafile = true
 
 [[files]]
@@ -593,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "1077af43e8e7a558be274fd992dbeb4ab2abf73e1b2d7ff5cfd346049b7a2a46"
+hash = "95ca8a81cabe7fb87a277eefa37c1a45b5af78d96e2755d3cd4aed16da01ddf9"
 metafile = true
 
 [[files]]
@@ -628,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7859eb7c5209d5e2fe5668d55c4123f784a672400f990bfe7348b8afe3d71edb"
+hash = "4b165cbfc7af56849e880383256cc6cdba7f6bba16bd6d2556098e5b639cc43e"
 metafile = true
 
 [[files]]
@@ -643,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "24a0496745daa4e60c5b259bd3960fb0d24a6bc1b0dfe89c859a9a21df894ae1"
+hash = "f5d6bfb0599246f95d25bfd6cc190609f4a2e14ed566ea4fbc6a52ccf248d907"
 metafile = true
 
 [[files]]
@@ -843,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8227c9de73aa8214f448d30d3851887a60553774c8c9a71d36a4e75833751e15"
+hash = "8a96d3e1ed2dddf6ee505a2e3d6c91783c70003769246710f90620b7940d35eb"
 metafile = true
 
 [[files]]
@@ -873,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "84c246279e7383facfdcd3633bc3b09ed746937c206bb3eab52e93c4cc7c2fbb"
+hash = "b121befe5685b66878ef19a22ec67853408b4d99b9043ce2cdc2a59647469305"
 metafile = true
 
 [[files]]
@@ -958,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
-hash = "f4be787e0eee6643a2e660ff768de255a4351c048c58e8cc00ac3dff5b1fab64"
+hash = "b7c3fd0b638b35f981593969547b54b8c4c0880c7d0fac1103e41cc78580c933"
 metafile = true
 
 [[files]]
@@ -978,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4cf7fee8cbbd03b91cf0be879409076b0b0382ead850cf2ed27ebbdce4cfadac"
+hash = "94eee031663efb90dcc1d79ca186e7d2515ed468c6e59b5038a053d697cc07e1"
 metafile = true
 
 [[files]]
