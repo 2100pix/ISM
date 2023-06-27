@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-3.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecdb82d0324222d50c180742238ae054988452bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4531498
+project-id = 496913

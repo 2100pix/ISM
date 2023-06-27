@@ -1,0 +1,13 @@
+name = "Queen Bee"
+filename = "queen_bee-3.0.3-1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "682f3ba7f0f7c4dd4ede4ef0b9a0887392bef857"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607195
+project-id = 523596
