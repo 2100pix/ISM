@@ -1,11 +1,11 @@
-name = "INVS Collectibles"
-filename = "invs_collectible_rpg_1.1.7.jar"
+name = "FarmersDelight"
+filename = "FarmersDelight-1.19-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/mrx84qmti4x2j17/invs_collectible_rpg_1.1.7.jar?dl=1"
+url = "https://www.dropbox.com/s/d8k6orskew3aqr9/FarmersDelight-1.19-1.2.1.jar?dl=1"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "817ee57d4393f8bd70e8ecc3f116a0a0b9e398294c162479536e1e098dd1cd3e"
+hash = "3f996c2cd8b6996a4d192fde1b61e702e94bd7821437317e7c5a8ccbbc082e0f"
