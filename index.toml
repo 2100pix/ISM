@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-deligh.pw.toml"
-hash = "f0cf49ff7859db873a1451ac86fbce849dac2709c6f606757b1d7f3209980281"
+hash = "c804f788280e12c056820badb7990f32f13fbf1f5e28e9725ad44ecd78115084"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/invs-collectible.pw.toml"
-hash = "c804f788280e12c056820badb7990f32f13fbf1f5e28e9725ad44ecd78115084"
+hash = "f0cf49ff7859db873a1451ac86fbce849dac2709c6f606757b1d7f3209980281"
 metafile = true
 
 [[files]]
