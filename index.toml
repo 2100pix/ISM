@@ -546,11 +546,6 @@ hash = "9dd464164f06671cd241541f28892f0a13a4c6cf5643d4d4165e3c5fb3845b35"
 metafile = true
 
 [[files]]
-file = "mods/geode-plus.pw.toml"
-hash = "bae3dce63dc4a5d02fd95f6ff24ce3222edfdabdf7a93b03aead280a978575dc"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dabd18f85d36ddefe1d00dc75ca77b48197aa32f69930f8e896fec082aa8993f"
 metafile = true
@@ -613,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "2de39f15cd9235cd1709a5820ce3cd7821903305f1e2f20a6f1b2116d2d423e4"
-metafile = true
-
-[[files]]
-file = "mods/itemlocks.pw.toml"
-hash = "f7bd02a729fbdf41286c0c021ff631b8fe099fd8c6ed405316c4e8f8aeb08077"
 metafile = true
 
 [[files]]
@@ -698,11 +688,6 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "ba60d99f62ec624072f4996d1df7c542cba4b2a055bdf8ba16401471ec95c55c"
-metafile = true
-
-[[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "2219cc16b7354440c6a432f636cde01f7aea49a147bb30d5ae19baa8921001e3"
 metafile = true
 
 [[files]]
