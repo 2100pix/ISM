@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/invs-collectible.pw.toml"
-hash = "f0cf49ff7859db873a1451ac86fbce849dac2709c6f606757b1d7f3209980281"
+hash = "0e32b5c7e96e1c6c0f8e86e1995e002b6a711e61ef17f47efbc00a3e687d3f17"
 metafile = true
 
 [[files]]

@@ -8,4 +8,4 @@ url = "https://www.dropbox.com/s/mrx84qmti4x2j17/invs_collectible_rpg_1.1.7.jar?
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "817ee57d4393f8bd70e8ecc3f116a0a0b9e398294c162479536e1e098dd1cd3e"
+hash = "d1013e4c325be8cf880fb4b60c57bd331de6f557707c321d9c6a03354de3be0c"
