@@ -70,7 +70,7 @@ hash = "36f81b15392e5c22f5002ccbd991ac5f686ff54421a91199c60106677d7f0b74"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "51e25c0363ce4fb2e33043c3a8c2f11d8ccbdebc4a2c951625799e8caae41374"
+hash = "3c177638891ccab5ce5bd7464006802075f0066e9823989b94517b6b92d3bc89"
 
 [[files]]
 file = "config/fancymenu/customization/ism.txt"
@@ -78,7 +78,7 @@ hash = "f01e7b0249f01757416ad68cbd83859b756b933e6b7ce17d54d54d4662d9d9ea"
 
 [[files]]
 file = "config/fancymenu/customization/ismmenu.txt"
-hash = "8b8dbcfe18d11ef892bbf9492934774fdf684eed58f54dbcc0e4501ed3a95509"
+hash = "a9b1b82494e84cbd3cd12df1ca3c83a2d537252eaf061c925396e6d1db3d0a94"
 
 [[files]]
 file = "config/fancymenu/customization/ismoptions.txt"
