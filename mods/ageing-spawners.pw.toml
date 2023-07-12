@@ -1,13 +1,13 @@
 name = "Ageing Spawners"
-filename = "AgeingSpawners-1.19.4-1.3.1.jar"
+filename = "AgeingSpawners-1.19.4-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d597ba2378179b243fe4df80609e4d1d86461de3"
+hash = "a1a2ca18795495e6aa410d4c688cc388b892932a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4512701
+file-id = 4614345
 project-id = 382979

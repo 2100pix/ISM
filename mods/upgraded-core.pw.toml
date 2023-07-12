@@ -1,13 +1,13 @@
 name = "Upgraded Core"
-filename = "upgradedcore-1.19.4-4.3.0.1-beta.jar"
+filename = "upgradedcore-1.19.4-4.3.0.2-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a218443671b635148ac575807c7888edbba7672c"
+hash = "ffcafcc196030a3120a227e974c68235bf4ff569"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4509434
+file-id = 4620149
 project-id = 566700

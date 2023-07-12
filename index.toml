@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/ageing-spawners.pw.toml"
-hash = "407a6e713f67fe435df227c00bbdeed8e9feb192e1199c7edc4e0c4a1505082a"
+hash = "2f73eafd149be43228d11eb9f41fb09e2d0cc2e036cae9cdc55c2e291f6676d7"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "dd8b9fa2bb5ad36c80c0f3eec95749c44a4df4b3fded0edb10d3afcafc06a7b4"
+hash = "05c733e8b2b3f673b9df5cb807e132639be655ce1726e9c565b9171ec7b9c1d5"
 metafile = true
 
 [[files]]
@@ -382,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d4bc37df5d9fc2893fdd94c6003808656d177b5fba754fb91f973189bb06f9c6"
+hash = "28fd23b52cee0afb74d4ac9ab3c866c2dded7bea619a7de1560bc9ba06a1a8b1"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7acc6c952386f172cdc5722c2bc6a3f3c505543f4e3b25503b113cdf9b1e2945"
+hash = "1e9fb31219deb1f0d8a9c5053be655db6275e3124d1ac9e0e55d02010dc24015"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "888fd8e07368a920c72eb7115c1781bc8823b8f5e304e16b0dbb064a793787a6"
+hash = "daf38ab20dcf6d434870ffe86ba33b616839be5681ec766c0ac5dc6cc75f40a5"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft-forge.pw.toml"
-hash = "dfb44e4468db600ce9c60045fadde8c21546cb0fd9ae88dafd29c587d2cfd056"
+hash = "c85b095dc447a0d2aaf4fb8adea2a56b159c9d0ad6296382d4075eb45c6613ef"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "b4714f1eaa703a6781e5476b8ea39021ca46a08e3c9b7fe96a1db7728fd48be0"
+hash = "19b902bf210f6de0a2da225e866fbc95de9c5b837b2059348f5e0222dc08036a"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/illagers-wear-armor.pw.toml"
-hash = "3d21543ada293c6408599f76c7105732c7c8bf9964e008d75eba3ee4f300ec6d"
+hash = "e336928079859e80c8baaad55a29686c0b8ddaa777966ab36832a1ff02f300f6"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "f5d6bfb0599246f95d25bfd6cc190609f4a2e14ed566ea4fbc6a52ccf248d907"
+hash = "6497a247cead83624f304c6405ef760b93d2c8f65eac84ab33c2654eb174da18"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "0953a36b9387b73142b272a3d6043777e9d0b50f8f512b0fb1c513bfa36d5742"
+hash = "6e183fa2183c3a30c7861bb1bc33472125123b6bfa945d16e50a91f26632e981"
 metafile = true
 
 [[files]]
@@ -827,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6a1eec264389ec2bdfa84d16b5e31abd3034d8b2dbcd6e2c1e881386cc3edcc3"
+hash = "e74bd8b429f0fed701c09a5df6516ec31a58bfd80da56f5ece80d6aa43d63e83"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8a96d3e1ed2dddf6ee505a2e3d6c91783c70003769246710f90620b7940d35eb"
+hash = "da26cc8538407fe1cbbf8fa45488faae459a6dada1bd32405ce961f2579dacb5"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b121befe5685b66878ef19a22ec67853408b4d99b9043ce2cdc2a59647469305"
+hash = "240d046f964aec0e45428186571ce2536f154d1b53dd7c3041b964a2bb3fe01a"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-core.pw.toml"
-hash = "3d0daaa5bae341b8828d17d2148f48184a0f91fe52f8146d9d20ed6400be5ef5"
+hash = "2ca7106ec529b42f1e93fdb339f9b909b510239d440f9e1dd79cadfd6f8ab032"
 metafile = true
 
 [[files]]
@@ -927,12 +927,12 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-netherite.pw.toml"
-hash = "1aa117abf210814f5e94ebe506ec595b2dcf2da6f2c96a2f6b3f1bd3f8592be4"
+hash = "b196f264926fa329a603b3e3c353aeaf41517e307274b41609b0dda0440eac42"
 metafile = true
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
-hash = "7c82629d006468bc2ab8f56a74057f2e328578c6b078f4f08ee21d22f50bddea"
+hash = "fef28d39519f06645230310342a08017251a9597168711f45b36ca28a649c82b"
 metafile = true
 
 [[files]]
