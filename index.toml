@@ -661,6 +661,11 @@ hash = "45a29e376ab9c3962b033663a65c4075ab92c55b0dab51bbae1525706f6f934f"
 metafile = true
 
 [[files]]
+file = "mods/lightfall-client.pw.toml"
+hash = "7d41bdb5fe8f1a282fa1d249962aaa4d4b7ff38d3a7de10af3ba674599d114de"
+metafile = true
+
+[[files]]
 file = "mods/magical-marines.pw.toml"
 hash = "33227ef9cf25aec9e9b2efd5f4d532d27012cdaae057908376279a7b2b063a58"
 metafile = true

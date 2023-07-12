@@ -1,0 +1,11 @@
+name = "LightFall"
+filename = "lightfallclient-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/yteho9qtdultx3s/lightfallclient-1.1.1.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "09fae6a071b96814eed25551c94583c64e8d975737e59dff1cb92071014cf262"
